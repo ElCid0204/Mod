@@ -18,6 +18,7 @@
         <Italian>Capre</Italian>
         <Spanish>Cabras</Spanish>
         <Russian>Козы</Russian>
+		<Hungarian>Kecske</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_GOATS</Tag>
@@ -31,6 +32,7 @@
         <Italian>Capre</Italian>
         <Spanish>Cabras</Spanish>
         <Russian>Козы</Russian>
+		<Hungarian>Kecske</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_GOATS</Tag>
@@ -44,6 +46,7 @@
         <Italian>Capre</Italian>
         <Spanish>Cabras</Spanish>
         <Russian>Козы</Russian>
+		<Hungarian>Kecske</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_GOATS_PEDIA</Tag>
@@ -52,6 +55,7 @@
         <German>[H1]Ziegen[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Ziegen[COLOR_REVERT] können auf Hügeln in [LINK=TERRAIN_WETLAND]Mooren[\LINK] oder [LINK=TERRAIN_MARSH]Sümpfen[\LINK], im [LINK=TERRAIN_SHRUBLAND]Buschland[\LINK] oder in der [LINK=TERRAIN_TUNDRA]Tundra[\LINK] gehalten werden. Um einen Kolonisten Ziegen hüten zu lassen, weisen Sie ihm den Beruf [LINK=PROFESSION_GOATHERD]Ziegenhirte[\LINK] zu.[NEWLINE][NEWLINE]Die Ziegenhaltung ist auf Geländefeldern mit dem [LINK=BONUS_GOAT]Ziegen[\LINK]-Bonus am effektivsten und kann durch den Bau von [LINK=IMPROVEMENT_PASTURE]Weiden[\LINK] auf zur Ziegenhaltung geeigneten Geländefeldern und die Beschäftigung von [LINK=UNIT_HERDER]erfahrenen Hirten[\LINK] gesteigert werden. Diese Experten können in den Dörfern der Einheimischen ausgebildet oder in Europa angeworben werden.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Ziegen fressen Pflanzen, die von den meisten anderen Haustieren verschmäht werden, so dass sie auch auf sehr kargen Böden überleben können. Die Anzahl der Tiere, die ein Ziegenhalter halten kann, hängt von der Qualität der Weide ab. Ein armer Mann mit schlechtem Land kann immer noch Ziegen züchten.[NEWLINE][NEWLINE]Vielleicht ist die Ziege wegen ihrer Anpassungsfähigkeit zu einem Symbol des Bösen geworden. Man sagt, dass sich Hexen mit Ziegen tummeln. Satan hat Ziegenhörner.</German>
         <Italian>[H1]CAPRE[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]Le [COLOR_HIGHLIGHT_TEXT]capre[COLOR_REVERT] possono essere allevate in collina su terreni [LINK=TERRAIN_WETLAND]umidi[\LINK], [LINK=TERRAIN_MARSH]paludosi[\LINK], [LINK=TERRAIN_SHRUBLAND]arbustivi[\LINK] o [LINK=TERRAIN_TUNDRA]tundra[\LINK]. Per far pascolare le capre a un colono, assegnargli la professione di [LINK=PROFESSION_GOATHERD]capraio[\LINK].[NEWLINE][NEWLINE]La produzione di capre è massima nelle parcelle con il bonus [LINK=BONUS_GOAT]capra[\LINK] e può essere aumentata costruendo [LINK=IMPROVEMENT_PASTURE]pascoli[\LINK] nelle parcelle che producono capre e impiegando [LINK=UNIT_HERDER]pastori esperti[\LINK]. Questi esperti possono essere formati nei villaggi nativi o assunti in Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]Le capre mangiano la vegetazione che la maggior parte degli altri animali domestici rifiuta, per cui possono sopravvivere anche su terreni molto poveri. Il numero di animali che un allevatore di capre può mantenere dipende dalla qualità del pascolo. Un uomo povero con terreni poveri può comunque allevare capre.[NEWLINE][NEWLINE]Forse per la loro adattabilità, le capre sono diventate un simbolo del male. Si dice che le streghe cavalchino con le capre. Satana ha corna di capra.</Italian>
         <Spanish>[H1]CABRAS[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]Las [COLOR_HIGHLIGHT_TEXT]cabras[COLOR_REVERT] pueden criarse en colinas en terrenos [LINK=TERRAIN_WETLAND]húmedos[\LINK], [LINK=TERRAIN_MARSH]marismas[\LINK], [LINK=TERRAIN_SHRUBLAND]matorrales[\LINK] o [LINK=TERRAIN_TUNDRA]tundra[\LINK]. Para que un colono críe cabras, asígnale la profesión [LINK=PROFESSION_GOATHERD]cabrero[\LINK].[NEWLINE][NEWLINE]La producción de cabras es mayor en las parcelas que tienen la bonificación [LINK=BONUS_GOAT]cabra[\LINK], y puede aumentarse construyendo [LINK=IMPROVEMENT_PASTURE]pastos[\LINK] en las parcelas que producen cabras y empleando [LINK=UNIT_HERDER]pastores expertos[\LINK]. Estos expertos pueden formarse en los pueblos nativos o contratarse en Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]Las cabras comen vegetación que la mayoría del resto del ganado doméstico rechaza, por lo que pueden subsistir en tierras muy pobres. El número de animales que puede mantener un criador de cabras depende de la calidad de los pastos. Un hombre pobre con tierras pobres puede criar cabras.[NEWLINE][NEWLINE]Quizá por su adaptabilidad, las cabras se han convertido en un símbolo del mal. Se dice que las brujas retozan con cabras. Satán tiene cuernos de cabra.</Spanish>
+		<Hungarian>[H1]KECSKÉK[\H1][NEWLINE][BOLD]Stratégia :[\BOLD][NEWLINE]A [COLOR_HIGHLIGHT_TEXT]Kecskéket[COLOR_REVERT] Dombokon lehet tenyészteni [LINK=TERRAIN_WETLAND]Ingovány[\LINK], [LINK=TERRAIN_MARSH]Mocsár[\LINK], [LINK=TERRAIN_SHRUBLAND]Cserjés[\LINK] vagy [LINK=TERRAIN_TUNDRA]Tundra[\LINK] terepen. Ahhoz, hogy egy telepes Kecskéket tenyésszen, válassz neki [LINK=PROFESSION_GOATHERD]Kecskepásztor[\LINK] szakmát.[NEWLINE][NEWLINE]A kecsketenyésztés a [LINK=BONUS_GOAT]Kecske[\LINK] bónusszal rendelkező területeken a legmagasabb, ami tovább növelhető [LINK=IMPROVEMENT_PASTURE]Legelő[\LINK] megépítésével és [LINK=UNIT_HERDER]Szakértő Pásztor[\LINK] alkalmazásával. Ezeket a szakértőket a Bennszülött falvakban lehet kiképezni, vagy Európában felbérelni.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]A Kecskék olyan növényzetet esznek, amelyet a legtöbb más háziállat elutasít, így nagyon szegényes földeken is meg tudnak élni. A legelő minőségétől függ, hogy egy kecsketenyésztő hány állatot tud eltartani. Egy szegény ember szegényes földen tud kecskéket tenyészteni.[NEWLINE][NEWLINE]Talán alkalmazkodóképességük miatt a Kecskék a gonosz jelképévé váltak. A boszorkányokról azt mondják, hogy kecskékkel hancúroznak. A sátánnak kecskeszarvai vannak.</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_GOATS_PEDIA</Tag>
@@ -74,6 +78,7 @@
         <Italian>Maiali</Italian>
         <Spanish>Cerdos</Spanish>
         <Russian>Свиньи</Russian>
+		<Hungarian>Disznó</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_PIGS</Tag>
@@ -87,6 +92,7 @@
         <Italian>Maiali</Italian>
         <Spanish>Cerdos</Spanish>
         <Russian>Свиньи</Russian>
+		<Hungarian>Disznó</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_PIGS</Tag>
@@ -100,6 +106,7 @@
         <Italian>Maiali</Italian>
         <Spanish>Cerdos</Spanish>
         <Russian>Свиньи</Russian>
+		<Hungarian>Disznó</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_PIGS_PEDIA</Tag>
@@ -108,7 +115,8 @@
         <German>[H1]Schweine[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Schweine[COLOR_REVERT] können auf Hügeln in [LINK=TERRAIN_WETLAND]Mooren[\LINK] oder [LINK=TERRAIN_MARSH]Sümpfen[\LINK], im [LINK=TERRAIN_SHRUBLAND]Buschland[\LINK] oder in der [LINK=TERRAIN_TUNDRA]Tundra[\LINK] gehalten werden. Um einen Kolonisten dazu zu bringen, Schweine zu züchten, weisen Sie ihm den Beruf [LINK=PROFESSION_PIG_BREEDER]Schweinezüchter[\LINK] zu.[NEWLINE][NEWLINE]Die Schweineproduktion ist auf Parzellen mit dem [LINK=BONUS_PIG]Schweine[\LINK]-Bonus am höchsten und kann durch den Bau von [LINK=IMPROVEMENT_PASTURE]Weiden[\LINK] auf schweineproduzierenden Parzellen und die Beschäftigung von [LINK=UNIT_HERDER]Expertenhirten[\LINK] gesteigert werden. Diese Experten können in den Dörfern der Einheimischen ausgebildet oder in Europa angeworben werden.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Früher wurden einige wenige Schweine in der Nähe des Wohnsitzes des Besitzers oder im selben Dorf oder Stadt gehalten. Die Schweine können in einem einfachen Stall angebunden oder in einem Pferch vor dem Haus des Besitzers gehalten werden.[NEWLINE][NEWLINE]Von Schweinehaltung spricht man, wenn Schweine im häuslichen oder industriellen Maßstab gezüchtet werden. Schweine werden als Nahrungsmittel und ihrer Häute wegen gezüchtet.[NEWLINE][NEWLINE]Sie werden für ihre Fähigkeit geschätzt, ungenießbare Lebensmittel in Fleisch und Dung zu verwandeln, und können mit Lebensmittelabfällen aus dem Haushalt gefüttert werden. In großem Maßstab sind Schweine eine Möglichkeit, kommunale Abfälle zu entsorgen.</German>
         <Italian>[H1]MAIALI[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]I [COLOR_HIGHLIGHT_TEXT]maiali[COLOR_REVERT] possono essere allevate in collina su terreni [LINK=TERRAIN_WETLAND]umidi[\LINK], [LINK=TERRAIN_MARSH]paludosi[\LINK], [LINK=TERRAIN_SHRUBLAND]arbustivi[\LINK] o [LINK=TERRAIN_TUNDRA]tundra[\LINK]. Per far sì che un colono allevi maiali, assegnategli la professione di [LINK=PROFESSION_PIG_BREEDER]allevatore di maiali[\LINK].[NEWLINE][NEWLINE]La produzione di maiali è massima nelle parcelle con il bonus [LINK=BONUS_PIG]maiale[\LINK] e può essere aumentata costruendo [LINK=IMPROVEMENT_PASTURE]pascoli[\LINK] sulle parcelle che producono maiali e impiegando [LINK=UNIT_HERDER]pastori esperti[\LINK]. Questi esperti possono essere formati nei villaggi nativi o assunti in Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]Storicamente, alcuni maiali venivano allevati vicino alla residenza del proprietario, o nello stesso villaggio o città. Possono essere legati in un semplice ricovero o tenuti in un recinto fuori dalla casa del proprietario.[NEWLINE][NEWLINE]L'allevamento di suini è l'allevamento di suini su scala domestica o industriale. I maiali sono allevati per il cibo e le pelli.[NEWLINE][NEWLINE]Sono apprezzati per la loro capacità di convertire il cibo non commestibile in carne e letame e possono essere alimentati con rifiuti alimentari domestici. Su larga scala, i maiali sono un modo per smaltire i rifiuti urbani.</Italian>
         <Spanish>[H1]CERDOS[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]Los [COLOR_HIGHLIGHT_TEXT]cerdos[COLOR_REVERT] se pueden criarse en colinas en terrenos [LINK=TERRAIN_WETLAND]húmedos[\LINK], [LINK=TERRAIN_MARSH]marismas[\LINK], [LINK=TERRAIN_SHRUBLAND]matorrales[\LINK] o [LINK=TERRAIN_TUNDRA]tundra[\LINK]. Para que un colono críe cerdos, asígnale la profesión [LINK=PROFESSION_PIG_BREEDER]criador de cerdos[\LINK].[NEWLINE][NEWLINE]La producción de cerdos es mayor en las parcelas que tienen la [LINK=BONUS_PIG]bonificación por cerdo[\LINK], y puede aumentarse construyendo [LINK=IMPROVEMENT_PASTURE]pastos[\LINK] en las parcelas productoras de cerdos y empleando [LINK=UNIT_HERDER]pastores expertos[\LINK]. Estos expertos pueden formarse en los pueblos nativos o contratarse en Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]Históricamente se criaban unos cuantos cerdos cerca de la residencia del propietario, o en el mismo pueblo o ciudad.[NEWLINE][NEWLINE]La porcinocultura es la cría de cerdos a escala doméstica o industrial. Los cerdos se crían para obtener alimentos y pieles.[NEWLINE][NEWLINE]Se valoran por su capacidad para convertir alimentos no comestibles en carne y estiércol, y pueden alimentarse con residuos de comida doméstica. A gran escala, los cerdos son una forma de eliminar la basura municipal.</Spanish>
-    </TEXT>
+		<Hungarian>[H1]DISZNÓK[\H1][NEWLINE][BOLD]Stratégia : [\BOLD][NEWLINE]A [COLOR_HIGHLIGHT_TEXT]Disznókat[COLOR_REVERT] Síkságon lehet tenyészteni [LINK=TERRAIN_WETLAND]Ingovány[\LINK], [LINK=TERRAIN_MARSH]Mocsár[\LINK], [LINK=TERRAIN_SHRUBLAND]Cserjés[\LINK] vagy [LINK=TERRAIN_TUNDRA]Tundra[\LINK] terepen. Ahhoz, hogy egy telepes Disznókat tenyésszen, válassz neki [LINK=PROFESSION_PIG_BREEDER]Kondás[\LINK] szakmát.[NEWLINE][NEWLINE]A Sertéstenyésztés a [LINK=BONUS_PIG]Disznó[\LINK] bónusszal rendelkező területeken a legmagasabb, ami tovább növelhető [LINK=IMPROVEMENT_PASTURE]Legelő[\LINK] megépítésével és [LINK=UNIT_HERDER]Szakértő Pásztor[\LINK] alkalmazásával. Ezeket a szakértőket a Bennszülött falvakban lehet kiképezni, vagy Európában felbérelni.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]A régmúltban néhány sertést a tulajdonos lakóhelye közelében tartottak. Lehetett őket kikötve egy egyszerű ólban, vagy a tulajdonos háza előtt egy karámban tartani.[NEWLINE][NEWLINE]Sertéstartásról akkor beszélünk, ha a sertéseket házi vagy ipari méretekben tenyésztik. A sertéseket élelem és bőrfelhasználás céljából tenyésztik.[NEWLINE][NEWLINE]A sertéseket azért kedvelik, mert képesek az ehetetlen élelmiszert hússá és trágyává alakítani, és a háztartási élelmiszerhulladékkal is lehet őket etetni. Nagyüzemben a sertések az egyik módja a kommunális szemét ártalmatlanításának.</Hungarian>
+	</TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_PIGS_PEDIA</Tag>
         <English>Can be left empty</English>
@@ -130,6 +138,7 @@
         <Italian>Galline</Italian>
         <Spanish>Gallinas</Spanish>
         <Russian>Куры</Russian>
+		<Hungarian>Csirke</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_CHICKEN</Tag>
@@ -143,6 +152,7 @@
         <Italian>Galline</Italian>
         <Spanish>Gallinas</Spanish>
         <Russian>Куры</Russian>
+		<Hungarian>Csirke</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_CHICKEN</Tag>
@@ -156,6 +166,7 @@
         <Italian>Galline</Italian>
         <Spanish>Gallinas</Spanish>
         <Russian>Куры</Russian>
+		<Hungarian>Csirke</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_CHICKEN_PEDIA</Tag>
@@ -164,6 +175,7 @@
         <German>[H1]Hühner[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Hühner[COLOR_REVERT] können im Flachland in [LINK=TERRAIN_MARSH]Sümpfen[\LINK] oder im [LINK=TERRAIN_SHRUBLAND]Buschland[\LINK] gehalten werden. Um einen Kolonisten Hühner züchten zu lassen, weisen Sie ihm den Beruf [LINK=PROFESSION_CHICKEN_BREEDER]Hühnerzüchter[\LINK] zu.[NEWLINE][NEWLINE]Die Hühnerproduktion ist auf Grundstücken mit dem [LINK=BONUS_CHICKEN]Hühner[\LINK]-Bonus am höchsten und kann durch den Bau von [LINK=IMPROVEMENT_PASTURE]Weiden[\LINK] auf hühnerproduzierenden Grundstücken und die Beschäftigung von [LINK=UNIT_BREEDER]Experten für Hühnerzucht[\LINK] gesteigert werden. Diese Experten können in den Dörfern der Eingeborenen ausgebildet oder in Europa angeworben werden.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]In der Freilandhaltung können sich die Hühner tagsüber frei bewegen, während sie nachts zum Schutz vor Raubtieren normalerweise in Ställen eingesperrt sind.</German>
         <Italian>[H1]GALLINE[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]I [COLOR_HIGHLIGHT_TEXT]polli[COLOR_REVERT] possono essere allevati in pianura su terreni [LINK=TERRAIN_MARSH]paludosi[\LINK] o [LINK=TERRAIN_SHRUBLAND]arbustivi[\LINK]. Per far sì che un colono allevi polli, assegnategli la professione di [LINK=PROFESSION_CHICKEN_BREEDER]allevatore di polli[\LINK].[NEWLINE][NEWLINE]La produzione di polli è massima nelle parcelle con il bonus [LINK=BONUS_CHICKEN]pollo[\LINK] e può essere aumentata costruendo [LINK=IMPROVEMENT_PASTURE]pascoli[\LINK] nelle parcelle che producono polli e impiegando [LINK=UNIT_BREEDER]esperti allevatori di pollame[\LINK]. Questi esperti possono essere formati nei villaggi nativi o assunti in Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]L'allevamento all'aperto consente alle galline di razzolare durante il giorno, anche se di notte sono generalmente confinate in pollai per proteggerle dai predatori.</Italian>
         <Spanish>[H1]GALLINAS[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]Los [COLOR_HIGHLIGHT_TEXT]pollos[COLOR_REVERT] se pueden criar en llanuras sobre [LINK=TERRAIN_MARSH]marismas[\LINK] o [LINK=TERRAIN_SHRUBLAND]matorrales[\LINK]. Para que un colono críe pollos, asígnale la profesión [LINK=PROFESSION_CHICKEN_BREEDER]criador de pollos[\LINK].[NEWLINE][NEWLINE]La producción de pollos es mayor en las parcelas que tienen la bonificación [LINK=BONUS_CHICKEN]pollo[\LINK], y puede aumentarse construyendo [LINK=IMPROVEMENT_PASTURE]pastos[\LINK] en las parcelas productoras de pollos y empleando a [LINK=UNIT_BREEDER]expertos criadores de pollos[\LINK]. Estos expertos pueden formarse en los pueblos nativos o contratarse en Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]La avicultura al aire libre permite a las gallinas deambular durante el día, aunque suelen estar confinadas en gallineros por la noche para protegerlas de los depredadores.</Spanish>
+		<English>[H1]CSIRKÉK[\H1][NEWLINE][BOLD]Stratégia :[\BOLD][NEWLINE]A [COLOR_HIGHLIGHT_TEXT]Csirkéket[COLOR_REVERT] [LINK=TERRAIN_MARSH]Mocsár[\LINK] vagy [LINK=TERRAIN_SHRUBLAND]Cserjés[\LINK] terepen lehet tenyészteni. Ahhoz, hogy egy telepes Csirkéket tenyésszen, válassz neki [LINK=PROFESSION_CHICKEN_BREEDER]Csirketenyésztő[\LINK] szakmát.[NEWLINE][NEWLINE]A Csirketenyésztés a [LINK=BONUS_CHICKEN]Csirke[\LINK] bónusszal rendelkező területeken a legmagasabb, ami tovább növelhető [LINK=IMPROVEMENT_PASTURE]Legelő[\LINK] megépítésével és [LINK=UNIT_BREEDER]Szakértő Tenyésztő[\LINK] alkalmazásával. Ezeket a szakértőket a Bennszülött falvakban lehet kiképezni, vagy Európában felbérelni.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]A szabad tartású baromfitenyésztés lehetővé teszi, hogy a csirkék nappal szabadon kóboroljanak, bár éjszaka általában ketrecbe zárják őket, hogy megvédjék őket a ragadozóktól. Rossz időjárás esetén szintén bent tartják őket.</English>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_CHICKEN_PEDIA</Tag>
@@ -186,6 +198,7 @@
         <Italian>Oche</Italian>
         <Spanish>Gansos</Spanish>
         <Russian>Гуси</Russian>
+		<Hungarian>Liba</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_GEESE</Tag>
@@ -199,6 +212,7 @@
         <Italian>Oche</Italian>
         <Spanish>Gansos</Spanish>
         <Russian>Гуси</Russian>
+		<Hungarian>Liba</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_GEESE</Tag>
@@ -212,6 +226,7 @@
         <Italian>Oche</Italian>
         <Spanish>Gansos</Spanish>
         <Russian>Гуси</Russian>
+		<Hungarian>Liba</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_GEESE_PEDIA</Tag>
@@ -220,6 +235,7 @@
         <German>[H1]Hausgänse[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Gänse[COLOR_REVERT] können im Flachland in [LINK=TERRAIN_WETLAND]Mooren[\LINK] oder in der [LINK=TERRAIN_TUNDRA]Tundra[\LINK] gezüchtet werden. Um einen Kolonisten Gänse züchten zu lassen, weisen Sie ihm den Beruf [LINK=PROFESSION_GEESE_BREEDER]Gänsezüchter[\LINK] zu.[NEWLINE][NEWLINE]Die Gänseproduktion ist auf Grundstücken mit dem [LINK=BONUS_DOMESTIC_GOOSE]Gänse[\LINK]-Bonus am höchsten und kann durch den Bau von [LINK=IMPROVEMENT_PASTURE]Weiden[\LINK] auf gänseproduzierenden Grundstücken und die Beschäftigung von [LINK=UNIT_BREEDER]Geflügelzüchterexperten[\LINK] gesteigert werden. Diese Experten können in den Dörfern der Eingeborenen ausgebildet oder in Europa angeworben werden.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Gänse sind unter den Hausvögeln die am schnellsten wachsenden Tiere. Sie sind widerstandsfähig und bei ständiger Pflege frei von Krankheiten. Gänse können auf grünen Weiden aufgezogen werden, was die Produktionskosten erheblich senkt.</German>
         <Italian>[H1]OCHE[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]Le [COLOR_HIGHLIGHT_TEXT]oche[COLOR_REVERT] possono essere allevate in pianura su terreni [LINK=TERRAIN_WETLAND]umidi[\LINK] o [LINK=TERRAIN_TUNDRA]tundra[\LINK]. Per far sì che un colono allevi le oche, assegnategli la professione di [LINK=PROFESSION_GEESE_BREEDER]allevatore di oche[\LINK].[NEWLINE][NEWLINE]La produzione di oche è massima nelle parcelle con il bonus [LINK=BONUS_DOMESTIC_GOOSE]oche[\LINK] e può essere aumentata costruendo [LINK=IMPROVEMENT_PASTURE]pascoli[\LINK] nelle parcelle che producono oche e impiegando [LINK=UNIT_BREEDER]esperti allevatori di pollame[\LINK]. Questi esperti possono essere formati nei villaggi nativi o assunti in Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]Le oche sono gli uccelli domestici che crescono più rapidamente. Sono resistenti e prive di malattie se sottoposte a cure costanti. Le oche possono essere allevate su pascoli verdi, il che riduce notevolmente i costi di produzione.</Italian>
         <Spanish>[H1]GANSOS[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]Las [COLOR_HIGHLIGHT_TEXT]ocas[COLOR_REVERT] se pueden criar en llanuras sobre [LINK=TERRAIN_WETLAND]húmedos[\LINK] o [LINK=TERRAIN_TUNDRA]tundra[\LINK]. Para que un colono críe gansos, asígnale la profesión [LINK=PROFESSION_GEESE_BREEDER]criador de gansos[\LINK].[NEWLINE][NEWLINE]La producción de gansos es mayor en las parcelas que tienen la bonificación [LINK=BONUS_DOMESTIC_GOOSE]ganso[\LINK], y puede aumentarse construyendo [LINK=IMPROVEMENT_PASTURE]pastos[\LINK] en las parcelas que producen gansos y empleando [LINK=UNIT_BREEDER]expertos criadores de aves[\LINK]. Estos expertos pueden formarse en los pueblos nativos o contratarse en Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]Los gansos son las aves domésticas que crecen más rápido. Son resistentes y no padecen enfermedades cuando se les proporcionan cuidados constantes. Los gansos pueden criarse en pastos verdes, lo que reduce considerablemente los costes de producción.</Spanish>
+		<Hungarian>[H1]LIBÁK[\H1][NEWLINE][BOLD]Stratégia :[\BOLD][NEWLINE]A [COLOR_HIGHLIGHT_TEXT]Libákat[COLOR_REVERT] Síkságon lehet tenyészteni [LINK=TERRAIN_WETLAND]Ingovány[\LINK] vagy [LINK=TERRAIN_TUNDRA]Tundra[\LINK] terepen. Ahhoz, hogy egy telepes Libákat tenyésszen, válassz neki [LINK=PROFESSION_GEESE_BREEDER]Libatenyésztő[\LINK] szakmát.[NEWLINE][NEWLINE]A Libatenyésztés a [LINK=BONUS_DOMESTIC_GOOSE]Liba[\LINK] bónusszal rendelkező területeken a legmagasabb, ami tovább növelhető [LINK=IMPROVEMENT_PASTURE]Legelő[\LINK] megépítésével és [LINK=UNIT_BREEDER]Szakértő Tenyésztő[\LINK] alkalmazásával. Ezeket a szakértőket a Bennszülött falvakban lehet kiképezni, vagy Európában felbérelni.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]A Libák a leggyorsabban növekedő házi szárnyasok. Állandó gondoskodás mellett szívósak és ellenállók a betegségekkel szemben. A libák zöld legelőn nevelhetők, ami jelentősen csökkenti a termelési költségeket.</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_GEESE_PEDIA</Tag>
@@ -242,6 +258,7 @@
         <Italian>Pelli di capra</Italian>
         <Spanish>Pieles de cabra</Spanish>
         <Russian>Козьи шкуры</Russian>
+		<Hungarian>Kecskebőr</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_GOAT_HIDES</Tag>
@@ -255,6 +272,7 @@
         <Italian>Pelli di capra</Italian>
         <Spanish>Pieles de cabra</Spanish>
         <Russian>Козьи шкуры</Russian>
+		<Hungarian>Kecskebőr</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_GOAT_HIDES</Tag>
@@ -268,6 +286,7 @@
         <Italian>Pelli di capra</Italian>
         <Spanish>Pieles de cabra</Spanish>
         <Russian>Козьи шкуры</Russian>
+		<Hungarian>Kecskebőr</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_GOAT_HIDES_PEDIA</Tag>
@@ -276,6 +295,7 @@
         <German>[H1]Ziegenfelle[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Ziegenfelle[COLOR_REVERT] stammen von geschlachteten [LINK=YIELD_GOATS]Ziegen[\LINK]. Um dies zu tun, muss ein Kolonist den Beruf [LINK=PROFESSION_BUTCHER_GOATS]Ziegenschlachter[\LINK] im [LINK=BUILDING_BUTCHERS_HOUSE]Haus des Schlachters[\LINK] oder einer seiner Erweiterungen ausüben. Die Produktion von Ziegenfellen kann durch die Beschäftigung von [LINK=UNIT_BUTCHER]Metzgermeistern[\LINK] verdoppelt werden, die in Europa angeworben werden können.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Die Ziege ist eines der ältesten domestizierten Tiere. Archäologische Funde belegen, dass sie bereits vor 10.000 Jahren in Persien gezüchtet wurde. Ziegen werden in weiten Teilen der Welt zur Gewinnung von Milch, Fleisch, Fellen und Häuten genutzt.</German>
         <Italian>[H1]PELLI DI CAPRA[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]Le [COLOR_HIGHLIGHT_TEXT]pelli di capra[COLOR_REVERT] provengono da [LINK=YIELD_GOATS]capre macellate[\LINK]. Per farlo, un colono deve avere la professione [LINK=PROFESSION_BUTCHER_GOATS]macellaio di capre[\LINK] nella [LINK=BUILDING_BUTCHERS_HOUSE]casa del macellaio[\LINK] o uno dei suoi potenziamenti. La produzione di pelli di capra può essere raddoppiata impiegando [LINK=UNIT_BUTCHER]mastri macellai[\LINK] che possono essere assunti in Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]La capra è uno dei più antichi animali domestici. Le prove archeologiche dimostrano che veniva allevata in Persia 10.000 anni fa. Le capre sono utilizzate per il latte, la carne, la pelliccia e le pelli in gran parte del mondo.</Italian>
         <Spanish>[H1]PIELES DE CABRA[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]Las [COLOR_HIGHLIGHT_TEXT]pieles de cabra[COLOR_REVERT] proceden de [LINK=YIELD_GOATS]cabras descuartizadas[\LINK]. Para ello, un colono necesita tener la profesión [LINK=PROFESSION_BUTCHER_GOATS]carnicero de cabras[\LINK] en la [LINK=BUILDING_BUTCHERS_HOUSE]casa del carnicero[\LINK] o una de sus mejoras. La producción de pieles de cabra puede duplicarse empleando [LINK=UNIT_BUTCHER]maestros carniceros[\LINK] que pueden contratarse en Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]La cabra es uno de los animales domesticados más antiguos. Las pruebas arqueológicas demuestran que se pastoreaba en Persia hace 10.000 años. En gran parte del mundo se utiliza para la producción de leche, carne, pieles y cueros.</Spanish>
+		<Hungarian>[H1]KECSKEBŐR[\H1][NEWLINE][BOLD]Stratégia :[\BOLD]A [NEWLINE][COLOR_HIGHLIGHT_TEXT]Kecskebőrök[COLOR_REVERT] a levágott [LINK=YIELD_GOATS]Kecskékből[\LINK] származnak. Ehhez egy telepesnek [LINK=PROFESSION_BUTCHER_GOATS]Kecskehentes[\LINK] szakmát kell választani a [LINK=BUILDING_BUTCHERS_HOUSE]Hentesboltban[\LINK] vagy annak egyik fejlesztésében. A Kecskebőrök termelése megduplázható az Európában felbérelhető [LINK=UNIT_BUTCHER]Hentesmester[\LINK] alkalmazásával.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]A kecske az egyik legrégebbi háziasított állat. Régészeti bizonyítékok azt mutatják, hogy Perzsiában már 10 000 évvel ezelőtt is tenyésztették. A kecskéket a világ nagy részén tej, hús, szőrme és bőr előállítására használják.</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_GOAT_HIDES_PEDIA</Tag>
@@ -298,6 +318,7 @@
         <Italian>Pelli di maiale</Italian>
         <Spanish>Pieles de cerdo</Spanish>
         <Russian>Свиная кожа</Russian>
+		<Hungarian>Disznóbőr</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_PIG_SKIN</Tag>
@@ -311,6 +332,7 @@
         <Italian>Pelli di maiale</Italian>
         <Spanish>Pieles de cerdo</Spanish>
         <Russian>Свиная кожа</Russian>
+		<Hungarian>Disznóbőr</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_PIG_SKIN</Tag>
@@ -324,6 +346,7 @@
         <Italian>Pelli di maiale</Italian>
         <Spanish>Pieles de cerdo</Spanish>
         <Russian>Свиная кожа</Russian>
+		<Hungarian>Disznóbőr</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_PIG_SKIN_PEDIA</Tag>
@@ -332,6 +355,7 @@
         <German>[H1]Schweinehäute[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Schweinsfelle[COLOR_REVERT] stammen von geschlachteten [LINK=YIELD_PIGS]Schweinen[\LINK]. Dazu muss ein Kolonist den Beruf [LINK=PROFESSION_BUTCHER_PIGS]Schweineschlachter[\LINK] im [LINK=BUILDING_BUTCHERS_HOUSE]Haus des Schlachters[\LINK] oder einer seiner Erweiterungen ausüben. Die Produktion von Schweinehäuten kann verdoppelt werden, indem man [LINK=UNIT_BUTCHER]Metzgermeister[\LINK] beauftragt, die man in Europa anwerben kann.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Schweinsleder ist weicher als Rindsleder und wird für detaillierte Gegenstände wie Handschuhe bevorzugt. Jacken aus Schweinsleder sind geschmeidiger als die schwereren Jacken aus Rindsleder, die jedoch haltbarer sind. Schweinsleder lässt sich leichter verarbeiten, so dass die Kleidungsstücke in der Regel ein feineres Finish aufweisen.</German>
         <Italian>[H1]PELLI DI MAIALE[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]Le [COLOR_HIGHLIGHT_TEXT]pelli di maiale[COLOR_REVERT] provengono da [LINK=YIELD_PIGS]maiali macellati[\LINK]. Per farlo, un colono deve avere la professione [LINK=PROFESSION_BUTCHER_PIGS]macellaio di maiali[\LINK] nella [LINK=BUILDING_BUTCHERS_HOUSE]casa del macellaio[\LINK] o in uno dei suoi potenziamenti. La produzione di pelli di maiale può essere raddoppiata commissionando [LINK=UNIT_BUTCHER]mastri macellai[\LINK] che possono essere assunti in Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]La pelle di maiale è più morbida della pelle di mucca e viene preferita per articoli dettagliati come i guanti. Le giacche in pelle di maiale sono più morbide della più pesante giacca in pelle di mucca, che tuttavia è più resistente. La pelle di maiale è più facile da lavorare, quindi i capi hanno in genere una finitura più fine.</Italian>
         <Spanish>[H1]PIELES DE CERDO[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]Las [COLOR_HIGHLIGHT_TEXT]pieles de cerdo[COLOR_REVERT] proceden de [LINK=YIELD_PIGS]cerdos descuartizados[\LINK]. Para ello, un colono necesita tener la profesión [LINK=PROFESSION_BUTCHER_PIGS]carnicero de cerdos[\LINK] en la [LINK=BUILDING_BUTCHERS_HOUSE]casa del carnicero[\LINK] o una de sus mejoras. La producción de pieles de cerdo se puede duplicar contratando [LINK=UNIT_BUTCHER]maestros carniceros[\LINK] en Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]La piel de cerdo es más suave que la de vaca y se prefiere para artículos detallados como los guantes. Las chaquetas de piel de cerdo son más flexibles que las de piel de vaca, más pesadas, pero más duraderas. La piel de cerdo es más fácil de trabajar, por lo que las prendas suelen tener un acabado más fino.</Spanish>
+		<Hungarian>[H1]DISZNÓBŐR[\H1][NEWLINE][BOLD]Stratégia :[\BOLD][NEWLINE]A [COLOR_HIGHLIGHT_TEXT]Disznóbőrök[COLOR_REVERT] a levágott [LINK=YIELD_PIGS]Disznókból[\LINK] származnak. Ehhez egy telepesnek [LINK=PROFESSION_BUTCHER_PIGS]Disznóhentes[\LINK] szakmát kell választani a [LINK=BUILDING_BUTCHERS_HOUSE]Hentesboltban[\LINK] vagy annak egyik fejlesztésében. A Disznóbőrök termelése megduplázható az Európában felbérelhető [LINK=UNIT_BUTCHER]Hentesmester[\LINK] alkalmazásával.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]A sertésbőr puhább, mint a tehénbőr, és előnyben részesítik az olyan finomabb ruhadarabokhoz, mint a kesztyű. A disznóbőr kabátok rugalmasabbak, mint a nehezebb tehénbőr kabátok, amelyek azonban tartósabbak. A sertésbőr könnyebben megmunkálható, így a ruhadarabok jellemzően finomabb kivitelűek.</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_PIG_SKIN_PEDIA</Tag>
@@ -354,6 +378,7 @@
         <Italian>Giù</Italian>
         <Spanish>Abajo</Spanish>
         <Russian>Пух</Russian>
+		<Hungarian>Pehelytoll</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_DOWNS</Tag>
@@ -367,6 +392,7 @@
         <Italian>Giù</Italian>
         <Spanish>Abajo</Spanish>
         <Russian>Пух</Russian>
+		<Hungarian>Pehelytoll</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_DOWNS</Tag>
@@ -380,6 +406,7 @@
         <Italian>Giù</Italian>
         <Spanish>Abajo</Spanish>
         <Russian>Пух</Russian>
+		<Hungarian>Pehelytoll</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_DOWNS_PEDIA</Tag>
@@ -388,6 +415,7 @@
         <German>[H1]Daunen[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Daunen[COLOR_REVERT] stammen von geschlachteten [LINK=YIELD_GEESE]Hausgänsen[\LINK]. Dazu muss ein Kolonist den Beruf [LINK=PROFESSION_BUTCHER_GEESE]Gänsemetzger[\LINK] im [LINK=BUILDING_BUTCHERS_HOUSE]Haus des Schlachters[\LINK] oder einem seiner Erweiterungen ausüben. Die Produktion von Daunen kann verdoppelt werden, indem man [LINK=UNIT_POULTRY_BUTCHER]Meister-Geflügelschlachter[\LINK] beschäftigt, die in Europa angeworben werden können.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Daunen sind die warmen inneren Federn, die von Wasservögeln gerupft werden. Sie werden als leichter Isolator in Kleidung und Bettzeug verwendet.</German>
         <Italian>[H1]GIÙ[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]Il [COLOR_HIGHLIGHT_TEXT]piumino[COLOR_REVERT] proviene da [LINK=YIELD_GEESE]oche domestiche macellate[\LINK]. Per farlo, un colono deve avere la professione di [LINK=PROFESSION_BUTCHER_GEESE]macellaio di oche[\LINK] nella [LINK=BUILDING_BUTCHERS_HOUSE]casa del macellaio[\LINK] o uno dei suoi potenziamenti. La produzione di piuma può essere raddoppiata impiegando [LINK=UNIT_POULTRY_BUTCHER]mastri macellai di pollame[\LINK] che possono essere assunti in Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]La piuma è il caldo interno delle piume strappate agli uccelli acquatici. Viene utilizzato come isolante leggero negli indumenti e nelle coperte.</Italian>
         <Spanish>[H1]ABAJO[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]El [COLOR_HIGHLIGHT_TEXT]plumón[COLOR_REVERT] procede de la carne de [LINK=YIELD_GEESE]ganso doméstico[\LINK]. Para ello, un colono necesita tener la profesión [LINK=PROFESSION_BUTCHER_GEESE]carnicero de gansos[\LINK] en la [LINK=BUILDING_BUTCHERS_HOUSE]casa del carnicero[\LINK] o una de sus mejoras. La producción de plumón se puede duplicar empleando a [LINK=UNIT_POULTRY_BUTCHER]maestros carniceros[\LINK] que se pueden contratar en Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]El plumón son las cálidas plumas interiores arrancadas de las aves acuáticas. Se utiliza como aislante ligero en prendas de vestir y ropa de cama.</Spanish>
+		<Hungarian>[H1]PEHELYTOLL[\H1][NEWLINE][BOLD]Stratégia :[\BOLD]A [NEWLINE][COLOR_HIGHLIGHT_TEXT]Pehelytoll[COLOR_REVERT] a levágott [LINK=YIELD_GEESE]Libából[\LINK] származik. Ehhez egy telepesnek [LINK=PROFESSION_BUTCHER_GEESE]Libahentes[\LINK] szakmát kell választani a [LINK=BUILDING_BUTCHERS_HOUSE]Hentesboltban[\LINK] vagy annak egyik fejlesztésében. A Pehelytollak termelése megduplázható az Európában felbérelhető [LINK=UNIT_POULTRY_BUTCHER]Baromfihentes Mester[\LINK] alkalmazásával.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]A Pehelytoll a vízimadarakból kitépett meleg belső toll. Könnyű szigetelőanyagként használják a ruházatban és az ágyneműben.</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_DOWNS_PEDIA</Tag>
@@ -410,6 +438,7 @@
         <Italian>Piume di uccelli selvatici</Italian>
         <Spanish>Plumas de aves silvestres</Spanish>
         <Russian>Перья диких птиц</Russian>
+		<Hungarian>Madártoll</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_WILD_FEATHERS</Tag>
@@ -423,6 +452,7 @@
         <Italian>Piume di uccelli selvatici</Italian>
         <Spanish>Plumas de aves silvestres</Spanish>
         <Russian>Перья диких птиц</Russian>
+		<Hungarian>Madártoll</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_WILD_FEATHERS</Tag>
@@ -436,6 +466,7 @@
         <Italian>Piume di uccelli selvatici</Italian>
         <Spanish>Plumas de aves silvestres</Spanish>
         <Russian>Перья диких птиц</Russian>
+		<Hungarian>Madártoll</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_WILD_FEATHERS_PEDIA</Tag>
@@ -444,6 +475,7 @@
         <German>[H1]Wildvogelfedern[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Wildvogelfedern[COLOR_REVERT] stammen von [LINK=BONUS_PARROTS]Wildvögeln[\LINK]. Dazu muss ein Kolonist den [LINK=PROFESSION_BIRD_HUNTER]Vogeljäger[\LINK] oder den [LINK=PROFESSION_SEA_BIRD_HUNTER]Seevogeljäger[\LINK] Beruf haben. Die Produktion von Wildvogelfedern kann durch den Einsatz von [LINK=UNIT_HUNTER]erfahrenen Jägern[\LINK] verdoppelt werden, die in Europa angeworben oder in den Dörfern der Eingeborenen ausgebildet werden können.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Wildvogelfedern wurden für die Verzierung von Kleidung, insbesondere von Hüten, geschätzt. Die größte Nachfrage bestand nach Federn von farbenprächtigen tropischen Vögeln.</German>
         <Italian>[H1]PIUME DI UCCELLI SELVATICI[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]Le [COLOR_HIGHLIGHT_TEXT]piume degli uccelli selvatici[COLOR_REVERT] provengono da [LINK=BONUS_PARROTS]uccelli selvatici[\LINK]. Per farlo, un colono deve avere la professione [LINK=PROFESSION_BIRD_HUNTER]cacciatore di uccelli[\LINK] o [LINK=PROFESSION_SEA_BIRD_HUNTER]cacciatore di uccelli marini[\LINK]. La produzione di piume di uccelli selvatici può essere raddoppiata impiegando [LINK=UNIT_HUNTER]cacciatori esperti[\LINK] che possono essere assunti in Europa o addestrati nei villaggi dei nativi.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]Le piume di uccelli selvatici erano apprezzate per la decorazione degli abiti, in particolare dei cappelli. La richiesta maggiore era quella di piume di uccelli tropicali dai colori vivaci.</Italian>
         <Spanish>[H1]PLUMAS DE AVES SILVESTRES[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]Las [COLOR_HIGHLIGHT_TEXT]plumas de aves silvestres[COLOR_REVERT] proceden de [LINK=BONUS_PARROTS]aves silvestres[\LINK]. Para ello, un colono necesita tener la [LINK=PROFESSION_BIRD_HUNTER]profesión de cazador de aves[\LINK] o la [LINK=PROFESSION_SEA_BIRD_HUNTER]profesión de cazador de aves marinas[\LINK]. La producción de plumas de aves silvestres puede duplicarse empleando [LINK=UNIT_HUNTER]cazadores expertos[\LINK] que pueden ser contratados en Europa o formados en las aldeas nativas.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]Las plumas de aves silvestres eran valoradas para la decoración de la ropa, sombreros en particular. La mayor demanda se centraba en las plumas de aves tropicales de colores vivos.</Spanish>
+		<Hungarian>[H1]VADMADÁRTOLL[\H1][NEWLINE][BOLD]Stratégia :[\BOLD]A [NEWLINE][COLOR_HIGHLIGHT_TEXT]Vadmadártollak[COLOR_REVERT] a [LINK=BONUS_PARROTS]Vadmadarakból[\LINK] származnak. Ehhez egy telepesnek [LINK=PROFESSION_BIRD_HUNTER]Madárvadász[\LINK] vagy [LINK=PROFESSION_SEA_BIRD_HUNTER]Tengerimadár Vadász[\LINK] szakmát kell választani. A Vadmadártollak termelése megduplázható [LINK=UNIT_HUNTER]Szakértő Vadász[\LINK] alkalmazásával, akit Európában lehet felbérelni vagy a Bennszülött falvakban kiképezni.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]A Vadmadártollakat szívesen használták ruhadíszítésre, különösen kalapok díszítésére. A legnagyobb kereslet az élénk színű trópusi madarak tollaira volt.</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_WILD_FEATHERS_PEDIA</Tag>
@@ -462,6 +494,7 @@
         <Italian>Stivali in pelle di capra foderati</Italian>
         <Spanish>Botas de piel de cabra forradas</Spanish>
         <Russian>Сапоги из козьих шкур</Russian>
+		<Hungarian>Bélelt Kecskebőr Csizma</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_GOAT_HIDE_BOOTS</Tag>
@@ -471,6 +504,7 @@
         <Italian>Stivali in pelle di capra foderati</Italian>
         <Spanish>Botas de piel de cabra forradas</Spanish>
         <Russian>Сапоги из козьих шкур</Russian>
+		<Hungarian>Bélelt Kecskebőr Csizma</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_GOAT_HIDE_BOOTS</Tag>
@@ -480,6 +514,7 @@
         <Italian>Stivali in pelle di capra foderati</Italian>
         <Spanish>Botas de piel de cabra forradas</Spanish>
         <Russian>Сапоги из козьих шкур</Russian>
+		<Hungarian>Bélelt Kecskebőr Csizma</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_GOAT_HIDE_BOOTS_PEDIA</Tag>
@@ -488,6 +523,7 @@
         <German>[H1]Gefütterte Ziegenlederstiefel[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Ziegenlederstiefel[COLOR_REVERT] werden aus [LINK=YIELD_GOAT_HIDES]Ziegenfellen[\LINK] hergestellt. Dazu muss ein Kolonist den Beruf [LINK=PROFESSION_LEATHER_PADDER_BOOTS]Stiefelmacher[\LINK] im [LINK=BUILDING_LEATHER_PADDER_HOUSE]Haus des Lederschneiders[\LINK] oder eine seiner Erweiterungen haben. Die Produktion von Stiefeln aus Ziegenleder kann verdoppelt werden, indem man [LINK=UNIT_LEATHER_TAYLOR]Meister-Lederschneider[\LINK] beauftragt, die in Europa angeworben werden können.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Aus Ziegenleder können fein gearbeitete Kleiderstiefel, Handschuhe für die Füße oder isolierte Stiefel für den Einsatz bei kaltem Wetter hergestellt werden.</German>
         <Italian>[H1]STIVALI IN PELLE DI CAPRA FODERATI[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]Gli [COLOR_HIGHLIGHT_TEXT]stivali in pelle di capra[COLOR_REVERT] sono fatti con [LINK=YIELD_GOAT_HIDES]pelli di capra[\LINK]. Per farlo, un colono deve avere la professione [LINK=PROFESSION_LEATHER_PADDER_BOOTS]calzolaio[\LINK] nella [LINK=BUILDING_LEATHER_PADDER_HOUSE]casa del pellettiere[\LINK] o uno dei suoi aggiornamenti. La produzione di stivali in pelle di capra può essere raddoppiata commissionando [LINK=UNIT_LEATHER_TAYLOR]mastri pellettieri[\LINK] che possono essere assunti in Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]La pelle di capra può essere utilizzata per stivali da sera finemente lavorati, guanti per i piedi o stivali isolati per l'uso in climi freddi.</Italian>
         <Spanish>[H1]BOTAS DE PIEL DE CABRA FORRADAS[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]Las [COLOR_HIGHLIGHT_TEXT]botas de piel de cabra[COLOR_REVERT] se fabrican con [LINK=YIELD_GOAT_HIDES]pieles de cabra[\LINK]. Para ello, un colono necesita tener la profesión [LINK=PROFESSION_LEATHER_PADDER_BOOTS]fabricante de botas[\LINK] en la [LINK=BUILDING_LEATHER_PADDER_HOUSE]casa del marroquinero[\LINK] o una de sus mejoras. La producción de botas de piel de cabra se puede duplicar encargando a [LINK=UNIT_LEATHER_TAYLOR]maestros marroquineros[\LINK] que se pueden contratar en Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]La piel de cabra puede utilizarse para fabricar botas de vestir, guantes para los pies o botas aislantes para el frío.</Spanish>
+		<Hungarian>[H1]BÉLELT KECSKEBŐR CSIZMA[\H1][NEWLINE][BOLD]Stratégia :[\BOLD][NEWLINE]A [COLOR_HIGHLIGHT_TEXT]Kecskebőr Csizma[COLOR_REVERT] [LINK=YIELD_GOAT_HIDES]Kecskebőrből[\LINK] készül. Ehhez egy telepesnek [LINK=PROFESSION_LEATHER_PADDER_BOOTS]Csizmadia[\LINK] szakmát kell választani a [LINK=BUILDING_LEATHER_PADDER_HOUSE]Bőrműves Boltban[\LINK] vagy annak egyik fejlesztésében. A Kecskebőr Csizmák termelése megduplázható az Európában felbérelhető [LINK=UNIT_LEATHER_TAYLOR]Bőrműves Mester[\LINK] alkalmazásával.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]A Kecskebőrből finom kidolgozású ruhacsizmák, talpkesztyűk, vagy a hideg időben való használathoz csizma szigetelések készíthetők.</Hungarian>.
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_GOAT_HIDE_BOOTS_PEDIA</Tag>
@@ -510,6 +546,7 @@
         <Italian>Grembiuli in pelle di maiale</Italian>
         <Spanish>Delantales de piel de cerdo</Spanish>
         <Russian>Фартуки из свиной кожи</Russian>
+		<Hungarian>Disznóbőr Kötény</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_PIG_LEATHER</Tag>
@@ -523,6 +560,7 @@
         <Italian>Grembiuli in pelle di maiale</Italian>
         <Spanish>Delantales de piel de cerdo</Spanish>
         <Russian>Фартуки из свиной кожи</Russian>
+		<Hungarian>Disznóbőr Kötény</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_PIG_LEATHER</Tag>
@@ -536,6 +574,7 @@
         <Italian>Grembiuli in pelle di maiale</Italian>
         <Spanish>Delantales de piel de cerdo</Spanish>
         <Russian>Фартуки из свиной кожи</Russian>
+		<Hungarian>Disznóbőr Kötény</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_PIG_LEATHER_PEDIA</Tag>
@@ -543,8 +582,8 @@
         <French>[H1]TABLIERS EN PEAU DE PORC[\H1][NEWLINE][BOLD]Stratégie :[\BOLD][NEWLINE]Les [COLOR_HIGHLIGHT_TEXT]tabliers en cuir de porc[COLOR_REVERT] sont fabriqués à partir de [LINK=YIELD_PIG_SKIN]peaux de porc[\LINK]. Pour ce faire, un colon doit posséder la profession de [LINK=PROFESSION_TANNER_PIG]tanneur de peaux de porc[\LINK] dans la [LINK=BUILDING_TANNERS_HOUSE]maison du tanneur[\LINK] ou l'une de ses améliorations. La production de tabliers en cuir de porc peut être doublée en employant un [LINK=UNIT_TANNER]maître tanneur[\LINK] qui peut être engagé en Europe.[NEWLINE][NEWLINE][NEWLINE][BOLD]Contexte :[\BOLD][NEWLINE]Les tabliers en cuir de porc sont des vêtements de travail résistants, utilisés par les forgerons pour bloquer les étincelles de la forge et par les bouchers en cas de dérapage des couteaux.</French>
         <German>[H1]Schweinslederschürzen[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Schweinslederschürzen[COLOR_REVERT] werden aus [LINK=YIELD_PIG_SKIN]Schweinehäuten[\LINK] hergestellt. Dazu benötigt ein Kolonist den Beruf [LINK=PROFESSION_TANNER_PIG]Schweinsledergerber[\LINK] im [LINK=BUILDING_TANNERS_HOUSE]Haus des Gerbers[\LINK] oder eine seiner Erweiterungen. Die Produktion von Schweinslederschürzen kann verdoppelt werden, indem man einen [LINK=UNIT_TANNER]Gerbermeister[\LINK] einsetzt, den man in Europa anwerben kann.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Schürzen aus Schweinsleder sind strapazierfähige Arbeitskleidung. Diese werden von Schmieden verwendet, um Funken aus der Schmiede abzuhalten, oder von Metzgern, um sich vor abrutschenden Messern zu schützen.</German>
         <Italian>[H1]GREMBIULI IN PELLE DI MAIALE[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]I [COLOR_HIGHLIGHT_TEXT]grembiuli di pelle di maiale[COLOR_REVERT] sono fatti con [LINK=YIELD_PIG_SKIN]pelli di maiale[\LINK]. Per farlo, un colono deve avere la professione [LINK=PROFESSION_TANNER_PIG]conciatore di pelli di maiale[\LINK] nella [LINK=BUILDING_TANNERS_HOUSE]casa dei conciatori[\LINK] o uno dei suoi potenziamenti. La produzione di grembiuli di pelle di maiale può essere raddoppiata assumendo [LINK=UNIT_TANNER]mastro conciatore[\LINK] che può essere assunto in Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]I grembiuli di pelle di maiale sono indumenti da lavoro resistenti, usati dai fabbri per bloccare le scintille della forgia e dai macellai nel caso in cui i coltelli scivolino.</Italian>
-        <Spanish>[H1]DELANTALES DE PIEL DE CERDO[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]Los [COLOR_HIGHLIGHT_TEXT]delantales de cuero de cerdo[COLOR_REVERT] se fabrican con [LINK=YIELD_PIG_SKIN]pieles de cerdo[\LINK]. Para ello, un colono necesita tener la profesión [LINK=PROFESSION_TANNER_PIG]curtidor de pieles de cerdo[\LINK] en la [LINK=BUILDING_TANNERS_HOUSE]casa del curtidor[\LINK] o una de sus mejoras. La producción de delantales de cuero de cerdo se puede duplicar empleando a [LINK=UNIT_TANNER]maestro curtidor[\LINK] que se puede contratar en Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]Los delantales de cuero de cerdo son prendas de trabajo resistentes, utilizadas por los herreros para bloquear las chispas de la forja y por los carniceros en caso de que se resbalen los cuchillos.
-</Spanish>
+        <Spanish>[H1]DELANTALES DE PIEL DE CERDO[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]Los [COLOR_HIGHLIGHT_TEXT]delantales de cuero de cerdo[COLOR_REVERT] se fabrican con [LINK=YIELD_PIG_SKIN]pieles de cerdo[\LINK]. Para ello, un colono necesita tener la profesión [LINK=PROFESSION_TANNER_PIG]curtidor de pieles de cerdo[\LINK] en la [LINK=BUILDING_TANNERS_HOUSE]casa del curtidor[\LINK] o una de sus mejoras. La producción de delantales de cuero de cerdo se puede duplicar empleando a [LINK=UNIT_TANNER]maestro curtidor[\LINK] que se puede contratar en Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]Los delantales de cuero de cerdo son prendas de trabajo resistentes, utilizadas por los herreros para bloquear las chispas de la forja y por los carniceros en caso de que se resbalen los cuchillos.</Spanish>
+		<Hungarian>[H1]DISZNÓBŐR KÖTÉNY[\H1][NEWLINE][BOLD]Stratégia :[\BOLD][NEWLINE]A [COLOR_HIGHLIGHT_TEXT]Disznóbőr Kötények[COLOR_REVERT] [LINK=YIELD_PIG_SKIN]Dinszóbőrből[\LINK] készülnek. Ehhez egy telepesnek [LINK=PROFESSION_TANNER_PIG]Disznóbőr Tímár[\LINK] szakmát kell választani a [LINK=BUILDING_TANNERS_HOUSE]Tímárboltban[\LINK] vagy annak egyik fejlesztésében. A Disznóbőr Kötények termelése megduplázható az Európában felbérelhető [LINK=UNIT_TANNER]Tímármester[\LINK] alkalmazásával.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]A Disznóbőr Kötények strapabíró munkaruhák, amelyeket a kovácsok a műhely szikráinak megfogására vagy a hentesek a kések elcsúszása ellen használnak.</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_PIG_LEATHER_PEDIA</Tag>
@@ -567,6 +606,7 @@
         <Italian>Frutta</Italian>
         <Spanish>Fruta</Spanish>
         <Russian>Фрукты</Russian>
+		<Hungarian>Gyümölcs</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_FRUITS</Tag>
@@ -580,6 +620,7 @@
         <Italian>Frutta</Italian>
         <Spanish>Fruta</Spanish>
         <Russian>Фрукты</Russian>
+		<Hungarian>Gyümölcs</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_FRUITS</Tag>
@@ -593,6 +634,7 @@
         <Italian>Frutta</Italian>
         <Spanish>Fruta</Spanish>
         <Russian>Фрукты</Russian>
+		<Hungarian>Gyümölcs</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_FRUITS_PEDIA</Tag>
@@ -601,6 +643,7 @@
         <German>[H1]Früchte[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Obst[COLOR_REVERT] wächst auf vielen verschiedenen Terrains. Um es zu ernten, muss ein Kolonist den [LINK=PROFESSION_FRUITS_PICKER]Obstpflücker[\LINK] Beruf haben. Die Obsternte kann verdoppelt werden, indem [LINK=UNIT_FRUITS_PICKER]erfahrene Obstpflücker[\LINK] eingestellt werden, die in Europa angeworben oder in den Dörfern der Eingeborenen ausgebildet werden können.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Da die Obstsorten während der Saison zu unterschiedlichen Zeiten reifen, sind die Obstpflücker oft Wanderarbeiter, die je nach Bedarf zwischen den Obstgärten und Farmen wechseln. In den Tropen wächst Obst das ganze Jahr über. Bananen sind das beliebteste Obst der Welt. Äpfel sind in den gemäßigten Zonen verbreitet, und einige Beeren wachsen in der Taiga oder Tundra.</German>
         <Italian>[H1]FRUTTA[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]La [COLOR_HIGHLIGHT_TEXT]frutta[COLOR_REVERT] cresce su molti terreni diversi. Per raccoglierla, un colono deve avere la professione di [LINK=PROFESSION_FRUITS_PICKER]raccoglitore di frutta[\LINK]. Il raccolto di frutta può essere raddoppiato impiegando [LINK=UNIT_FRUITS_PICKER]raccoglitori di frutta esperti[\LINK] che possono essere assunti in Europa o addestrati nei villaggi dei nativi.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]Poiché le varietà di frutta maturano in momenti diversi nel corso della stagione, i raccoglitori di frutta sono spesso migranti, e si spostano tra i frutteti e le fattorie a seconda delle necessità. Ai tropici la frutta cresce tutto l'anno. Le banane sono il frutto più popolare al mondo. Le mele sono comuni nelle zone temperate e alcune bacche crescono nella taiga o nella tundra.</Italian>
         <Spanish>[H1]FRUTA[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]La [COLOR_HIGHLIGHT_TEXT]fruta[COLOR_REVERT] crece en muchos terrenos diferentes. Para recolectarla, un colono necesita tener la profesión [LINK=PROFESSION_FRUITS_PICKER]recolector de fruta[\LINK]. La cosecha de fruta puede duplicarse empleando a [LINK=UNIT_FRUITS_PICKER]expertos recolectores de fruta[\LINK] que pueden ser contratados en Europa o formados en las aldeas nativas.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]Dado que las variedades de fruta maduran en diferentes momentos a lo largo de la temporada, los recolectores de fruta suelen ser migrantes, moviéndose entre los huertos y las granjas según las necesidades. En los trópicos, la fruta crece todo el año. El plátano es la fruta más popular del mundo. Las manzanas son comunes en las zonas templadas, y algunas bayas crecen en la taiga o la tundra.</Spanish>
+		<Hungarian>[H1]GYÜMÖLCS[\H1][NEWLINE][BOLD]Stratégia :[\BOLD]A [NEWLINE][COLOR_HIGHLIGHT_TEXT]Gyümölcs[COLOR_REVERT] sokféle terepen terem. A betakarításához egy telepesnek [LINK=PROFESSION_FRUITS_PICKER]Gyümölcsszedő[\LINK] szakmát kell választani. A Gyümölcstermés megduplázható [LINK=UNIT_FRUITS_PICKER]Szakértő Gyümölcsszedő[\LINK] alkalmazásával, akit Európában lehet felfogadni, vagy a Bennszülött falvakban kiképezni.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]Mivel a gyümölcsfajták a szezon során különböző időpontokban érnek, a gyümölcsszedők gyakran vándorolnak, szükség szerint mozognak a gyümölcsösök és farmok között. A trópusokon a gyümölcs egész évben terem. A banán a világ legnépszerűbb gyümölcse. A mérsékelt égövben gyakori az alma, a tajgán és a tundrán pedig egyes bogyós gyümölcsök teremnek.</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_FRUITS_PEDIA</Tag>
@@ -623,6 +666,7 @@
         <Italian>Acquavite di frutta</Italian>
         <Spanish>Aguardiente de fruta</Spanish>
         <Russian>Фруктовый бренди</Russian>
+		<Hungarian>Gyümölcspárlat</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_HOOCH</Tag>
@@ -636,6 +680,7 @@
         <Italian>Acquavite di frutta</Italian>
         <Spanish>Aguardiente de fruta</Spanish>
         <Russian>Фруктовый бренди</Russian>
+		<Hungarian>Gyümölcspárlat</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_HOOCH</Tag>
@@ -649,6 +694,7 @@
         <Italian>Acquavite di frutta</Italian>
         <Spanish>Aguardiente de fruta</Spanish>
         <Russian>Фруктовый бренди</Russian>
+		<Hungarian>Gyümölcspárlat</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_HOOCH_PEDIA</Tag>
@@ -657,6 +703,7 @@
         <German>[H1]Schnaps[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Obstbrände und Liköre[COLOR_REVERT] werden aus verschiedenen [LINK=YIELD_FRUITS]Früchten[\LINK] hergestellt. Dazu benötigt ein Kolonist den Beruf [LINK=PROFESSION_HOOCH_DISTILLER]Obstbranntweinbrenner[\LINK] im [LINK=BUILDING_DISTILLERS_HOUSE]Haus des Brenners[\LINK] oder eine seiner Erweiterungen. Die Produktion von Obstbränden kann durch die Beauftragung von [LINK=UNIT_DISTILLER]Brennmeistern[\LINK] verdoppelt werden, die in Europa angeworben werden können.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Obstbrände können aus verschiedenen Obstsorten oder Feldbeeren gebrannt werden. Der Schnaps kann so lange destilliert werden, bis er klar ist, ähnlich wie ein leichter Wodka.[NEWLINE][NEWLINE]Aromatisierte Liköre aus Obst sind in Klöstern beliebt.</German>
         <Italian>[H1]ACQUAVITE DI FRUTTA E LIQUORI[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]L'[COLOR_HIGHLIGHT_TEXT]acquavite di frutta e i liquori[COLOR_REVERT] si ottengono da una varietà di [LINK=YIELD_FRUITS]frutti[\LINK]. Per farlo, un colono deve avere la professione [LINK=PROFESSION_HOOCH_DISTILLER]distillatore di acquavite di frutta[\LINK] nella [LINK=BUILDING_DISTILLERS_HOUSE]casa del distillatore[\LINK] o uno dei suoi potenziamenti. La produzione di acquavite di frutta può essere raddoppiata commissionando [LINK=UNIT_DISTILLER]mastri distillatori[\LINK] che possono essere assunti in Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]L'acquavite di frutta può essere distillata da diversi frutti di frutteto o bacche di campo. Il liquore può essere distillato fino a diventare limpido, come una vodka dal gusto leggero.[NEWLINE][NEWLINE]I liquori aromatizzati a base di frutta sono molto diffusi nei monasteri.</Italian>
         <Spanish>[H1]AGUARDIENTE DE FRUTAS Y LICORES[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]El [COLOR_HIGHLIGHT_TEXT]aguardiente de frutas y los licores[COLOR_REVERT] se elaboran a partir de una variedad de [LINK=YIELD_FRUITS]frutas[\LINK]. Para ello, un colono necesita tener la profesión [LINK=PROFESSION_HOOCH_DISTILLER]destilador de aguardiente de frutas[\LINK] en la [LINK=BUILDING_DISTILLERS_HOUSE]casa del destilador[\LINK] o una de sus mejoras. La producción de aguardiente de frutas puede duplicarse si se contrata a [LINK=UNIT_DISTILLER]maestros destiladores[\LINK] en Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]El aguardiente de frutas puede destilarse a partir de diferentes frutas de huerto o bayas de campo. El licor puede destilarse hasta que esté claro, como un vodka de sabor ligero.[NEWLINE][NEWLINE]Los licores aromatizados hechos a partir de frutas son populares en los monasterios.</Spanish>
+		<Hungarian>[H1]GYÜMÖLCSPÁRLAT ÉS LIKŐR[\H1][NEWLINE][BOLD]Stratégia :[\BOLD][NEWLINE]A [COLOR_HIGHLIGHT_TEXT]Gyümölcspárlatok és Likőrök[COLOR_REVERT] különféle [LINK=YIELD_FRUITS]Gyümölcsökből[\LINK] készülnek. Ehhez egy telepesnek [LINK=PROFESSION_HOOCH_DISTILLER]Gyümölcslepárló[\LINK] szakmát kell választani a [LINK=BUILDING_DISTILLERS_HOUSE]Szeszfőzdében[\LINK] vagy annak egyik fejlesztésében. A Gyümölcspárlatok termelése megduplázható az Európában felbérelhető [LINK=UNIT_DISTILLER]Lepárlómester[\LINK] alkalmazásával.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]A gyümölcspárlatot különböző gyümölcsösökből vagy mezei bogyókból lehet lepárolni. A likőrt addig lehet desztillálni, amíg tiszta nem lesz, hasonlóan az enyhén ízesített vodkához.[NEWLINE][NEWLINE]A gyümölcsökből készült ízesített likőrök népszerűek a kolostorokban.</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_HOOCH_PEDIA</Tag>
@@ -679,6 +726,7 @@
         <Italian>Lino</Italian>
         <Spanish>Lino</Spanish>
         <Russian>Лен</Russian>
+		<Hungarian>Len</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_FLAX</Tag>
@@ -692,6 +740,7 @@
         <Italian>Lino</Italian>
         <Spanish>Lino</Spanish>
         <Russian>Лен</Russian>
+		<Hungarian>Len</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_FLAX</Tag>
@@ -705,6 +754,7 @@
         <Italian>Lino</Italian>
         <Spanish>Lino</Spanish>
         <Russian>Лен</Russian>
+		<Hungarian>Len</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_FLAX_PEDIA</Tag>
@@ -713,6 +763,7 @@
         <German>[H1]Flachs[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Flachs[COLOR_REVERT] wächst auf Flachland in der [LINK=TERRAIN_TUNDRA]Tundra[\LINK]. Um ihn zu ernten, muss ein Kolonist den [LINK=PROFESSION_FLAX_PLANTER]Flachs-Pflanzer[\LINK] Beruf haben. Die Flachsernte kann verdoppelt werden, indem [LINK=UNIT_LINEN_PLANTER]erfahrene Flachspflanzer[\LINK] eingestellt werden, die in Europa angeworben oder in den Dörfern der Eingeborenen ausgebildet werden können.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Leinenstoffe, die aus wildem Flachs gewebt werden, gibt es seit über 30.000 Jahren. Fromme Kolonisten wissen, dass Leinen häufig in der Bibel erwähnt wird.[NEWLINE][NEWLINE]Leinen ist bei heißem Wetter angenehm zu tragen. Der Stoff ist stark und saugfähig, knittert aber.</German>
         <Italian>[H1]LINO[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]Il [COLOR_HIGHLIGHT_TEXT]lino[COLOR_REVERT] cresce in pianura su terreni [LINK=TERRAIN_TUNDRA]tundra[\LINK]. Per raccoglierlo, un colono deve avere la professione di [LINK=PROFESSION_FLAX_PLANTER]piantatore di lino[\LINK]. Il raccolto di lino può essere raddoppiato impiegando [LINK=UNIT_LINEN_PLANTER]esperti piantatori di lino[\LINK] che possono essere assunti in Europa o addestrati nei villaggi dei nativi.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]I tessuti di lino ottenuti dal lino selvatico risalgono a oltre 30.000 anni fa. I coloni devoti sanno che il lino è spesso citato nella Bibbia.[NEWLINE][NEWLINE]Il lino è comodo da indossare quando fa caldo. Il tessuto è resistente e assorbente, anche se si stropiccia.</Italian>
         <Spanish>[H1]LINO[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]El [COLOR_HIGHLIGHT_TEXT]lino[COLOR_REVERT] crece en llanuras sobre terreno de [LINK=TERRAIN_TUNDRA]tundra[\LINK]. Para cosecharlo, un colono necesita tener la profesión [LINK=PROFESSION_FLAX_PLANTER]plantador de lino[\LINK]. La cosecha de lino puede duplicarse empleando [LINK=UNIT_LINEN_PLANTER]expertos plantadores de lino[\LINK] que pueden ser contratados en Europa o entrenados en las aldeas nativas.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]Las telas de lino tejidas con lino silvestre datan de hace más de 30.000 años. Todos los colonos devotos saben que el lino se menciona con frecuencia en la Biblia[NEWLINE][NEWLINE]El lino es cómodo de llevar cuando hace calor. El tejido es resistente y absorbente, aunque se arruga.</Spanish>
+		<Hungarian>[H1]LEN[\H1][NEWLINE][BOLD]Stratégia :[\BOLD][NEWLINE]A [COLOR_HIGHLIGHT_TEXT]Lent[COLOR_REVERT] Síkságon lehet termeszteni [LINK=TERRAIN_TUNDRA]Tundra[\LINK] terepen. A betakarításához egy telepesnek [LINK=PROFESSION_FLAX_PLANTER]Lentermesztő[\LINK] szakmát kell választani. A Lentermés megduplázható [LINK=UNIT_LINEN_PLANTER]Szakértő Lentermesztő[\LINK] alkalmazásával, akit Európában lehet felbérelni vagy a Bennszülött falvakban kiképezni.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]A vad lenből szőtt lenszövetek több mint 30.000 éves múltra tekintenek vissza. A hívő telepesek mindannyian tudják, hogy a lenvászon gyakran szerepel a Bibliában.[NEWLINE][NEWLINE]A lenvászon kényelmes viselet a meleg időben. A szövet erős és nedvszívó, bár gyűrődik.</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_FLAX_PEDIA</Tag>
@@ -735,6 +786,7 @@
         <Italian>Mobili imbottiti</Italian>
         <Spanish>Muebles acolchados</Spanish>
         <Russian>Мягкая мебель</Russian>
+		<Hungarian>Kárpitozott Bútor</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_PADDED_FURNITURE</Tag>
@@ -748,6 +800,7 @@
         <Italian>Mobili imbottiti</Italian>
         <Spanish>Muebles acolchados</Spanish>
         <Russian>Мягкая мебель</Russian>
+		<Hungarian>Kárpitozott Bútor</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_PADDED_FURNITURE</Tag>
@@ -761,6 +814,7 @@
         <Italian>Mobili imbottiti</Italian>
         <Spanish>Muebles acolchados</Spanish>
         <Russian>Мягкая мебель</Russian>
+		<Hungarian>Kárpitozott Bútor</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_PADDED_FURNITURE_PEDIA</Tag>
@@ -769,6 +823,7 @@
         <German>[H1]Polstermöbel[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Polstermöbel[COLOR_REVERT] werden aus [LINK=YIELD_LEATHER]Leder[\LINK] hergestellt. Dazu muss ein Kolonist den Beruf [LINK=PROFESSION_PADDED_FURNITURE_MAKER]Polsterer[\LINK] im [LINK=BUILDING_FURNITURE_MAKERS_HOUSE]Haus des Möbelmachers[\LINK] oder einer seiner Erweiterungen ausüben. Die Produktion von Polstermöbeln kann verdoppelt werden, indem man [LINK=UNIT_FURNITURE_MAKER]Tischlermeister[\LINK] beauftragt, die in Europa angeworben werden können.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Robuste Holzmöbel sind gut und schön für Siedler an der Grenze, aber Bürger, die sich ein wenig Komfort leisten können, schätzen einen Sessel und eine große, weiche Couch, in die sie sich hineinfallen lassen. Für dieses Vergnügen sind sie bereit, mehr zu bezahlen, weshalb der Polsterer ein gutes Geschäft macht.</German>
         <Italian>[H1]MOBILI IMBOTTITI[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]I [COLOR_HIGHLIGHT_TEXT]mobili imbottiti[COLOR_REVERT] sono fatti di [LINK=YIELD_LEATHER]pelle[\LINK]. Per farlo, un colono deve avere la professione di [LINK=PROFESSION_PADDED_FURNITURE_MAKER]tappezziere[\LINK] nella [LINK=BUILDING_FURNITURE_MAKERS_HOUSE]casa dell'ebanista[\LINK] o uno dei suoi aggiornamenti. La produzione di mobili imbottiti può essere raddoppiata commissionando [LINK=UNIT_FURNITURE_MAKER]mastri ebanisti[\LINK] che possono essere assunti in Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]I robusti mobili in legno vanno bene per i coloni di frontiera, ma i cittadini che si sono guadagnati un po' di comfort apprezzano una poltrona e un grande divano morbido in cui sprofondare. Pagheranno un extra per questo piacere, ed è per questo che il tappezziere è un buon commerciante.</Italian>
         <Spanish>[H1]MUEBLES ACOLCHADOS[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]Los [COLOR_HIGHLIGHT_TEXT]muebles tapizados[COLOR_REVERT] se fabrican con [LINK=YIELD_LEATHER]cuero[\LINK]. Para ello, un colono necesita tener la profesión [LINK=PROFESSION_PADDED_FURNITURE_MAKER]tapicero[\LINK] en la [LINK=BUILDING_FURNITURE_MAKERS_HOUSE]casa del ebanista[\LINK] o una de sus mejoras. La producción de muebles tapizados se puede duplicar encargando a [LINK=UNIT_FURNITURE_MAKER]maestros ebanistas[\LINK] que se pueden contratar en Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]Los muebles robustos de madera están muy bien para los colonos de la frontera, pero los ciudadanos que se han ganado un poco de comodidad aprecian un sillón y un sofá grande y mullido en el que hundirse. Pagarán más por ese placer, y por eso el tapicero tiene un buen negocio.</Spanish>
+		<Hungarian>[H1]KÁRPITOZOTT BÚTOR[\H1][NEWLINE][BOLD]Stratégia :[\BOLD][NEWLINE]A [COLOR_HIGHLIGHT_TEXT]Kárpitozott Bútorok[COLOR_REVERT] [LINK=YIELD_LEATHER]Bőrből[\LINK] készülnek. Ehhez egy telepesnek [LINK=PROFESSION_PADDED_FURNITURE_MAKER]Kárpitos[\LINK] szakmát kell választani az [LINK=BUILDING_FURNITURE_MAKERS_HOUSE]Asztalos Boltban[\LINK] vagy annak valamelyik fejlesztésében. A Kárpitozott Bútorok termelése megduplázható az Európában felbérelhető [LINK=UNIT_FURNITURE_MAKER]Asztalosmester[\LINK] alkalmazásával.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]A robusztus fabútorok mind szépek és jók a határvidéken élő telepesek számára, de a kényelemre vágyó polgárok értékelik a foteleket és a nagy puha kanapékat, amelyekbe belesüppedhetnek. Ezért az élvezetért külön fizetnek, így a kárpitos jól keres.</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_PADDED_FURNITURE_PEDIA</Tag>
@@ -791,6 +846,7 @@
         <Italian>Legno duro</Italian>
         <Spanish>Madera dura</Spanish>
         <Russian>Твердая древесина</Russian>
+		<Hungarian>Keményfa</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_HARDWOOD</Tag>
@@ -804,6 +860,7 @@
         <Italian>Legno duro</Italian>
         <Spanish>Madera dura</Spanish>
         <Russian>Твердая древесина</Russian>
+		<Hungarian>Keményfa</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_HARDWOOD</Tag>
@@ -817,6 +874,7 @@
         <Italian>Legno duro</Italian>
         <Spanish>Madera dura</Spanish>
         <Russian>Твердая древесина</Russian>
+		<Hungarian>Keményfa</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_HARDWOOD_PEDIA</Tag>
@@ -825,6 +883,7 @@
         <German>[H1]Hartholz[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Hartholz[COLOR_REVERT] wächst in [LINK=FEATURE_ANCIENT_FOREST]alten Nordwäldern[\LINK], [LINK=FEATURE_DENSE_FOREST]dichten Wäldern[\LINK] und [LINK=FEATURE_MANGROVE]Mangrovenwäldern[\LINK]. Um es zu ernten, muss ein Kolonist den [LINK=PROFESSION_HARDWOOD_LUMBERJACK]Hartholz-Holzfäller[\LINK] Beruf ausüben. Der Hartholzeinschlag kann durch den Einsatz von [LINK=UNIT_LUMBERJACK]erfahrenen Holzfällern[\LINK] verdoppelt werden, die in Europa angeworben oder in den Dörfern der Eingeborenen ausgebildet werden können. Hartholz wird für den Bau großer Schiffe benötigt.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Hartholz stammt von Laubbäumen. Holz, die häufigste Holzart, stammt von immergrünen Bäumen.[NEWLINE][NEWLINE]Hartholz wird als Brennstoff, für Werkzeuge, im Bauwesen, im Bootsbau, bei der Herstellung von Möbeln, Musikinstrumenten, Fußböden, zum Kochen, für Fässer und zur Herstellung von Holzkohle verwendet. Die Dichte trägt zu Haltbarkeit, Aussehen und Leistung bei.</German>
         <Italian>[H1]LEGNO DURO[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]Il [COLOR_HIGHLIGHT_TEXT]legno duro[COLOR_REVERT] cresce nelle [LINK=FEATURE_ANCIENT_FOREST]antiche foreste del nord[\LINK], [LINK=FEATURE_DENSE_FOREST]fitte foreste[\LINK] e [LINK=FEATURE_MANGROVE]foreste di mangrovie[\LINK]. Per raccoglierlo, un colono deve avere la professione [LINK=PROFESSION_HARDWOOD_LUMBERJACK]taglialegna[\LINK]. Il raccolto di legno duro può essere raddoppiato impiegando [LINK=UNIT_LUMBERJACK]boscaioli esperti[\LINK] che possono essere assunti in Europa o addestrati nei villaggi dei nativi. Il legno duro è necessario per costruire grandi navi.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]Il legno duro proviene da alberi decidui. Il legno di latifoglie, il tipo di legname più comune, proviene da alberi sempreverdi.[NEWLINE][NEWLINE]Il legno di latifoglie è usato per combustibili, utensili, costruzioni, costruzione di barche, mobili, strumenti musicali, pavimenti, cucina, botti e produzione di carbone di legna. La densità aumenta la durata, l'aspetto e le prestazioni.</Italian>
         <Spanish>[H1]MADERA DURA[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]La [COLOR_HIGHLIGHT_TEXT]Madera dura[COLOR_REVERT] crece en [LINK=FEATURE_ANCIENT_FOREST]bosques antiguos del norte[\LINK], [LINK=FEATURE_DENSE_FOREST]bosques densos[\LINK] y [LINK=FEATURE_MANGROVE]bosques de manglares[\LINK]. Para cosecharla, un colono necesita tener la profesión [LINK=PROFESSION_HARDWOOD_LUMBERJACK]leñador de madera dura[\LINK]. La cosecha de madera dura puede duplicarse empleando [LINK=UNIT_LUMBERJACK]leñadores expertos[\LINK] que pueden ser contratados en Europa o entrenados en pueblos nativos. La madera dura es necesaria para construir grandes barcos.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]La madera dura proviene de los árboles de hoja caduca. La madera blanda, el tipo más común de madera, es de árboles de hoja perenne.[NEWLINE][NEWLINE]La madera dura se utiliza como combustible, herramientas, construcción, construcción de barcos, fabricación de muebles, instrumentos musicales, suelos, cocina, barriles, y la fabricación de carbón vegetal. Su densidad contribuye a su durabilidad, aspecto y rendimiento.</Spanish>
+		<Hungarian>[H1]HARDWOOD[\H1][NEWLINE][BOLD]Stratégia : [\BOLD][NEWLINE]A [COLOR_HIGHLIGHT_TEXT]Keményfa[COLOR_REVERT] az [LINK=FEATURE_ANCIENT_FOREST]Északi Őserdőkben[\LINK], [LINK=FEATURE_DENSE_FOREST]Sűrű Erdőkben[\LINK] és [LINK=FEATURE_MANGROVE]Mangroveerdőkben[\LINK] nő. A betakarításhoz egy telepesnek [LINK=PROFESSION_HARDWOOD_LUMBERJACK]Keményfa Favágó[\LINK] szakmát kell választani. A Keményfa kitermelése megduplázható [LINK=UNIT_LUMBERJACK]Szakértő Favágó[\LINK] alkalmazásával, akit Európában lehet felbérelni vagy a Bennszülött falvakban kiképezni. A Keményfára nagy hajók építéséhez van szükség.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]A keményfa lombhullató fákból nyerhető. A Puhafa, a leggyakoribb fafajta, örökzöldekből származik.[NEWLINE][NEWLINE]A Keményfát tüzelőanyagnak, szerszámokhoz, építkezéshez, hajóépítéshez, bútorgyártáshoz, hangszerek készítéséhez, padlóburkoláshoz, főzéshez, hordókhoz és faszén előállításához használják. A sűrűségük hozzájárul a tartóssághoz, a megjelenéshez és a teljesítményhez.</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_HARDWOOD_PEDIA</Tag>
@@ -847,6 +906,7 @@
         <Italian>Sciroppo d'acero</Italian>
         <Spanish>Sirope de arce</Spanish>
         <Russian>Кленовый сироп</Russian>
+		<Hungarian>Juharszirup</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_MAPLE_SIRUP</Tag>
@@ -860,6 +920,7 @@
         <Italian>Sciroppo d'acero</Italian>
         <Spanish>Sirope de arce</Spanish>
         <Russian>Кленовый сироп</Russian>
+		<Hungarian>Juharszirup</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_MAPLE_SIRUP</Tag>
@@ -873,6 +934,7 @@
         <Italian>Sciroppo d'acero</Italian>
         <Spanish>Sirope de arce</Spanish>
         <Russian>Кленовый сироп</Russian>
+		<Hungarian>Juharszirup</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_MAPLE_SIRUP_PEDIA</Tag>
@@ -881,6 +943,7 @@
         <German>[H1]Ahornsaft[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Ahornsirup[COLOR_REVERT] ist der Saft von Ahornbäumen, die in den [COLOR_HIGHLIGHT_TEXT]Wäldern[COLOR_REVERT] der [LINK=TERRAIN_TUNDRA]Tundra[\LINK] wachsen. Um ihn zu sammeln, muss ein Kolonist den Beruf [LINK=PROFESSION_MAPLE_SIRUP_COLLECTOR]Ahornsirupsammler[\LINK] ausüben. Die Ausbeute an Ahornsirup kann verdoppelt werden, indem man [LINK=UNIT_MAPLE_SIRUP_COLLECTOR]erfahrene Ahornsaft-Sammler[\LINK] anstellt in den Dörfern der Ureinwohner ausgebildet werden können.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Im Frühjahr, wenn der Saft in den Ahornwäldern zu fließen beginnt, hämmern die Zapfer Tüllen in die Rinde und sammeln eine dünne Flüssigkeit, die dann über einem langsamen Feuer zu einem reichhaltigen, dicken Sirup destilliert wird. Er kann auch auf Schnee gegossen werden, um Ahornzucker herzustellen.</German>
         <Italian>[H1]SCIROPPO D'ACERO[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]Lo [COLOR_HIGHLIGHT_TEXT]sciroppo d'acero[COLOR_REVERT] è la linfa degli aceri, che crescono nelle [COLOR_HIGHLIGHT_TEXT]foreste[COLOR_REVERT] su terreni [LINK=TERRAIN_TUNDRA]tundra[\LINK]. Per raccoglierlo, un colono deve avere la professione [LINK=PROFESSION_MAPLE_SIRUP_COLLECTOR]raccoglitore di sciroppo d'acero[\LINK]. Le scorte di sciroppo d'acero possono essere raddoppiate impiegando [LINK=UNIT_MAPLE_SIRUP_COLLECTOR]esperti intagliatori di alberi d'acero[\LINK] che possono essere assunti in Europa o addestrati nei villaggi dei nativi.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]In primavera, quando la linfa inizia a scorrere nelle foreste di acero, gli intagliatori martellano i becchi nella corteccia e raccolgono un fluido sottile che viene poi distillato a fuoco lento in un ricco e denso sciroppo. Può anche essere versato sulla neve per ottenere lo zucchero d'acero.</Italian>
         <Spanish>[H1]SIROPE DE ARCE[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]El [COLOR_HIGHLIGHT_TEXT]sirope de arce[COLOR_REVERT] es la savia de los arces, que crecen en [COLOR_HIGHLIGHT_TEXT]bosques[COLOR_REVERT] sobre terreno de [LINK=TERRAIN_TUNDRA]tundra[\LINK]. Para recolectarlo, un colono necesita tener la profesión [LINK=PROFESSION_MAPLE_SIRUP_COLLECTOR]recolector de sirope de arce[\LINK]. El suministro de sirope de arce puede duplicarse empleando [LINK=UNIT_MAPLE_SIRUP_COLLECTOR]expertos recolectores de sirope de arce[\LINK] que pueden ser contratados en Europa o entrenados en las aldeas nativas.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]En primavera, cuando la savia comienza a fluir en los bosques de arce, los recolectores martillean la corteza y recogen un líquido fino que luego se destila sobre un fuego lento en un rico y espeso sirope. También se puede verter sobre la nieve para obtener azúcar de arce.</Spanish>
+		<Hungarian>[H1]JUHARSZIRUP[\H1][NEWLINE][BOLD]Stratégia :[\BOLD][NEWLINE]A [COLOR_HIGHLIGHT_TEXT]Juharszirup[COLOR_REVERT] a juharfák nedve, amik [COLOR_HIGHLIGHT_TEXT]Erdőkben[COLOR_REVERT] lévő [LINK=TERRAIN_TUNDRA]Tundra[\LINK] terepen nőnek. A begyűjtéséhez egy telepesnek [LINK=PROFESSION_MAPLE_SIRUP_COLLECTOR]Juharszirup Gyűjtő[\LINK] szakmát kell választani. A Juharszirup begyűjtése megduplázható [LINK=UNIT_MAPLE_SIRUP_COLLECTOR]Szakértő Juharfa Csapoló[\LINK] alkalmazásával, akit a Bennszülött falvakban lehet kiképezni.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]Tavasszal, amikor a juharfa erdőkben elkezd folyni a nedv, a csapolók a kéregbe ütik a csapoló csöveket, és híg folyadékot gyűjtenek, amelyet aztán lassú tűzön desztillálnak gazdag, sűrű sziruppá. Ezt hóra is lehet önteni, hogy juharcukor készüljön belőle.</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_MAPLE_SIRUP_PEDIA</Tag>
@@ -903,6 +966,7 @@
         <Italian>Foglie di yerba</Italian>
         <Spanish>Hojas de yerba</Spanish>
         <Russian>Чайные листья</Russian>
+		<Hungarian>Tealevél</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_YERBA_LEAVES</Tag>
@@ -916,6 +980,7 @@
         <Italian>Foglie di yerba</Italian>
         <Spanish>Hojas de yerba</Spanish>
         <Russian>Чайные листья</Russian>
+		<Hungarian>Tealevél</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_YERBA_LEAVES</Tag>
@@ -929,6 +994,7 @@
         <Italian>Foglie di yerba</Italian>
         <Spanish>Hojas de yerba</Spanish>
         <Russian>Чайные листья</Russian>
+		<Hungarian>Tealevél</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_YERBA_LEAVES_PEDIA</Tag>
@@ -937,6 +1003,7 @@
         <German>[H1]Mate-Blätter[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Mate-Blätter[COLOR_REVERT] stammen von der Yerba-Pflanze, die in [LINK=FEATURE_JUNGLE]Dschungeln[\LINK] oder auf Hügeln in [LINK=TERRAIN_MARSH]Sümpfen[\LINK] wächst. Um sie zu sammeln, muss ein Kolonist den Beruf [LINK=PROFESSION_YERBA_COLLECTOR]Mate-Sammler[\LINK] ausüben. Der Vorrat an Mate-Blättern kann verdoppelt werden, indem man [LINK=UNIT_YERBA_PLANTER]erfahrene Yerba-Pflanzer[\LINK] beauftragt, die in Europa angeworben oder in den Dörfern der Eingeborenen ausgebildet werden können.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Die Guarani und Tupi bauten Yerba-Pflanzen bereits vor der europäischen Kolonisierung an. Nachdem die Jesuiten damit begonnen hatten, wurde Mate-Tee im heutigen Paraguay und in anderen spanischen Kolonien weit verbreitet.[NEWLINE][NEWLINE]Mate-Blätter werden in heißem Wasser eingeweicht, um ein koffeinhaltiges Getränk herzustellen : Mate-Tee. Kalt gebraut, wird er zur Herstellung von Tereré verwendet.</German>
         <Italian>[H1]FOGLIE DI YERBA[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]Le [COLOR_HIGHLIGHT_TEXT]foglie di yerba[COLOR_REVERT] provengono dalla pianta di yerba che cresce nelle [LINK=FEATURE_JUNGLE]giungle[\LINK] o sulle colline delle [LINK=TERRAIN_MARSH]paludi[\LINK]. Per raccoglierla, un colono deve avere la professione di [LINK=PROFESSION_YERBA_COLLECTOR]raccoglitore di yerba[\LINK]. La fornitura di foglie di yerba può essere raddoppiata incaricando [LINK=UNIT_YERBA_PLANTER]esperti piantatori di yerba[\LINK] che possono essere assunti in Europa o addestrati nei villaggi nativi.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]I Guarani e i Tupi coltivavano la pianta di yerba prima della colonizzazione europea. Dopo che i gesuiti iniziarono a usarla, la yerba mate si diffuse nell'attuale Paraguay e in altre colonie spagnole.[NEWLINE][NEWLINE]Le foglie di yerba vengono messe in infusione in acqua calda per ottenere una bevanda a base di caffeina : la yerba mate. Preparato a freddo, viene usato per fare il tereré.</Italian>
         <Spanish>[H1]HOJAS DE YERBA[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]Las [COLOR_HIGHLIGHT_TEXT]hojas de yerba[COLOR_REVERT] proceden de la planta de la yerba que crece en [LINK=FEATURE_JUNGLE]selvas[\LINK] o en colinas de [LINK=TERRAIN_MARSH]marismas[\LINK]. Para recolectarla, un colono necesita tener la profesión [LINK=PROFESSION_YERBA_COLLECTOR]recolector de yerba[\LINK]. El suministro de hojas de yerba se puede duplicar encargando a [LINK=UNIT_YERBA_PLANTER]expertos plantadores de yerba[\LINK] que pueden ser contratados en Europa o formados en los pueblos nativos.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]Los guaraníes y los tupíes cultivaban la planta de la yerba antes de la colonización europea. Después de que los jesuitas empezaran a utilizarla, la yerba mate se generalizó en lo que hoy es Paraguay y en otras colonias españolas.[NEWLINE][NEWLINE]Las hojas de yerba se remojan en agua caliente para preparar una bebida con cafeína : la yerba mate. Elaborado en frío, se utiliza para hacer tereré.</Spanish>
+		<Hungarian>[H1]TEALEVÉL[\H1][NEWLINE][BOLD]Stratégia :[\BOLD][NEWLINE]A [COLOR_HIGHLIGHT_TEXT]Tealevelek[COLOR_REVERT] a yerba maté növényből származnak, amik a [LINK=FEATURE_JUNGLE]Dzsungelben[\LINK] vagy Dombokon lévő [LINK=TERRAIN_MARSH]Mocsár[\LINK] terepen nőnek. A begyűjtéséhez egy telepesnek [LINK=PROFESSION_YERBA_COLLECTOR]Tealevél Gyűjtő[\LINK] szakmát kell választani. A Tealevél begyűjtés megduplázható [LINK=UNIT_YERBA_PLANTER]Szakértő Tealevél Termesztő[\LINK] alkalmazásával, akit Európában lehet felbérelni vagy a Bennszülött falvakban kiképezni.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]A Guaranik és a Tupik már az európai gyarmatosítás előtt is termesztettek tea növényeket. Miután a jezsuiták elkezdték használni, a yerba maté széles körben elterjedt a mai Paraguay területén és más spanyol gyarmatokon.[NEWLINE][NEWLINE]A yerba leveleket forró vízben áztatva koffeintartalmú italt készítenek : ez a yerba maté. Hidegen főzve tererét készítenek belőle.</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_YERBA_LEAVES_PEDIA</Tag>
@@ -959,6 +1026,7 @@
         <Italian>Campeggio</Italian>
         <Spanish>Palo de Campeche</Spanish>
         <Russian>Кампеш</Russian>
+		<Hungarian>Kékfa</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_LOGWOOD</Tag>
@@ -972,6 +1040,7 @@
         <Italian>Campeggio</Italian>
         <Spanish>Palo de Campeche</Spanish>
         <Russian>Кампеш</Russian>
+		<Hungarian>Kékfa</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_LOGWOOD</Tag>
@@ -985,6 +1054,7 @@
         <Italian>Campeggio</Italian>
         <Spanish>Palo de Campeche</Spanish>
         <Russian>Кампеш</Russian>
+		<Hungarian>Kékfa</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_LOGWOOD_PEDIA</Tag>
@@ -993,6 +1063,7 @@
         <German>[H1]Färbholz[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Blauholz[COLOR_REVERT] findet man in [LINK=FEATURE_JUNGLE]Dschungeln[\LINK] oder in [LINK=FEATURE_TROPICAL_GROVES]tropischen Hainen[\LINK]. Um es zu sammeln, muss ein Kolonist den Beruf [LINK=PROFESSION_BLOODWOOD_CUTTER]Blauholz-Holzfäller[\LINK] ausüben. Der Holzeinschlag kann verdoppelt werden, indem [LINK=UNIT_LOGWOOD_COLLECTOR]erfahrene Blauholz-Sammler[\LINK] eingestellt werden, die in Europa angeworben oder in den Dörfern der Eingeborenen ausgebildet werden können.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Der Baum war in der Kolonialzeit von großer wirtschaftlicher Bedeutung, als er zum Färben von Stoffen nach Europa exportiert wurde. Unter Mißachtung spanischer Gebietsansprüche fällten und sammelten ausländische Seeleute Bäume, um sie nach Europa zu verschiffen. Spanien beauftragte daraufhin Freibeuter, sie anzugreifen.[NEWLINE][NEWLINE]Unter dem Druck der spanischen Freibeuter gründeten die Holzfäller ihre eigenen Piratencrews, um die Spanier zu überfallen. Blackbeard verwendete erbeutete Blauholz-Schaluppen als Piratenschiffe.</German>
         <Italian>[H1]CAMPEGGIO[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]Il [COLOR_HIGHLIGHT_TEXT]legno di tronco[COLOR_REVERT] si trova nelle [LINK=FEATURE_JUNGLE]giungle[\LINK] o nei [LINK=FEATURE_TROPICAL_GROVES]boschetti tropicali[\LINK]. Per raccoglierlo, un colono deve avere la professione [LINK=PROFESSION_BLOODWOOD_CUTTER]tagliatore di legno di sangue[\LINK]. Il raccolto di legna da ardere può essere raddoppiato impiegando [LINK=UNIT_LOGWOOD_COLLECTOR]Tagliatori di legno di sangue esperti[\LINK] che possono essere assunti in Europa o addestrati nei villaggi dei nativi.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]L'albero aveva una grande importanza economica nell'era coloniale, quando veniva esportato in Europa per tingere i tessuti. Sfidando le rivendicazioni territoriali spagnole, i marinai stranieri tagliavano e raccoglievano gli alberi per spedirli in Europa. La Spagna rispose incaricando i corsari di attaccarli.[NEWLINE][NEWLINE]Sotto l'attacco dei corsari spagnoli, i tagliatori di legna formarono le proprie ciurme di pirati per razziare gli spagnoli. Barbanera trasformò gli sloop catturati in navi pirata.</Italian>
         <Spanish>[H1]PALO DE CAMPECHE[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]La [COLOR_HIGHLIGHT_TEXT]leña[COLOR_REVERT] se encuentra en [LINK=FEATURE_JUNGLE]selvas[\LINK] o en [LINK=FEATURE_TROPICAL_GROVES]arboledas tropicales[\LINK]. Para recolectarla, el colono debe tener la profesión [LINK=PROFESSION_BLOODWOOD_CUTTER]cortador de madera de sangre[\LINK]. La cosecha de leña puede duplicarse empleando a [LINK=UNIT_LOGWOOD_COLLECTOR]expertos cortadores de madera de sangre[\LINK] que pueden ser contratados en Europa o formados en los pueblos nativos.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]El árbol tuvo una gran importancia económica en la época colonial, cuando se exportaba a Europa para teñir telas. Desafiando las reivindicaciones territoriales españolas, marineros extranjeros cortaban y recolectaban árboles para enviarlos a Europa. España respondió encargando a corsarios que los atacaran.[NEWLINE][NEWLINE]Bajo el ataque de los corsarios españoles, los cortadores de leña formaron sus propias tripulaciones piratas para asaltar a los españoles. Barbanegra convirtió las balandras capturadas en barcos piratas.</Spanish>
+		<Hungarian>[H1]KÉKFA[\H1][NEWLINE][BOLD]Stratégia :[\BOLD][NEWLINE]A[COLOR_HIGHLIGHT_TEXT]Kékfa[COLOR_REVERT] a [LINK=FEATURE_JUNGLE]Dzsungelben[\LINK] vagy [LINK=FEATURE_TROPICAL_GROVES]Trópusi Ligetben[\LINK] található. A betakarításához egy telepesnek [LINK=PROFESSION_BLOODWOOD_CUTTER]Kékfa Favágó[\LINK] szakmát kell választani. A Kékfa betakarítása megduplázható [LINK=UNIT_LOGWOOD_COLLECTOR]Szakértő Kékfa Gyűjtő[\LINK] alkalmazásával, akit Európában lehet felbérelni vagy a Bennszülött falvakban kiképezni.[NEWLINE][NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]A fa nagy gazdasági jelentőséggel bírt a gyarmati korszakban, amikor Európába exportálták szövetfestésre. A spanyol területi igényekkel dacolva külföldi tengerészek kivágták és begyűjtötték a fát, hogy Európába szállítsák. Spanyolország erre válaszul kalózhajókat bízott meg a megtámadásukkal.[NEWLINE][NEWLINE]A spanyol kalózhajók támadásai nyomán a kékfa favágók saját kalózcsapatokat alakítottak, hogy rajtaütéseket hajtsanak végre a spanyolokon. Feketeszakáll kalózhajókká alakította a zsákmányolt kékfaszállító hajókat.</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_LOGWOOD_PEDIA</Tag>
@@ -1015,6 +1086,7 @@
         <Italian>Mate</Italian>
         <Spanish>Yerba mate</Spanish>
         <Russian>Чай</Russian>
+		<Hungarian>Yerba Tea</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_YERBA_TEA</Tag>
@@ -1028,6 +1100,7 @@
         <Italian>Mate</Italian>
         <Spanish>Yerba mate</Spanish>
         <Russian>Чай</Russian>
+		<Hungarian>Yerba Tea</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_YERBA_TEA</Tag>
@@ -1041,6 +1114,7 @@
         <Italian>Mate</Italian>
         <Spanish>Yerba mate</Spanish>
         <Russian>Чай</Russian>
+		<Hungarian>Yerba Tea</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_YERBA_TEA_PEDIA</Tag>
@@ -1049,6 +1123,7 @@
         <German>[H1]Mate-Tee[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Mate-Tee[COLOR_REVERT] wird aus [LINK=YIELD_YERBA_LEAVES]Mate-Blättern[\LINK] hergestellt. Dazu muss ein Kolonist den Beruf [LINK=PROFESSION_YERBA_TRADER]Mate-Teehändler[\LINK] im [LINK=BUILDING_TOBACCONIST_HOUSE]Tabak- und Yerba-Haus[\LINK] oder eine seiner Erweiterungen haben. Die Produktion von Mate-Tee kann durch die Beauftragung von [LINK=UNIT_YERBA_TRADER]Meister Mate-Teehändlern[\LINK] verdoppelt werden, die in Europa angeworben werden können.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Um in den Yerba-Handel einzusteigen, musste man sich mit zwei besonders gefährlichen indigenen Völkern auseinandersetzen : den Guarani und den Tupi. Erschwerend kam hinzu, dass die Yerba-Blätter nur in zwei Regionen zu finden waren : Amambay und Alto Parana. Nachdem die Jesuiten dies übernommen hatten, verbreitete sich Mate-Tee weit über das heutige Paraguay hinaus in die anderen spanischen Kolonien Süd-Amerikas.</German>
         <Italian>[H1]MATE[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]Il [COLOR_HIGHLIGHT_TEXT]tè di yerba[COLOR_REVERT] si ottiene dalle [LINK=YIELD_YERBA_LEAVES]foglie di yerba[\LINK]. Per farlo, un colono deve avere la professione [LINK=PROFESSION_YERBA_TRADER]commerciante di mate[\LINK] nella [LINK=BUILDING_TOBACCONIST_HOUSE]Casa del tabacco e della yerba[\LINK] o uno dei suoi potenziamenti. La produzione di mate può essere raddoppiata commissionando [LINK=UNIT_YERBA_TRADER]mastri commercianti di mate[\LINK] che possono essere assunti in Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]Iniziare il commercio della mate significava avere a che fare con due popoli indigeni particolarmente pericolosi : i Guarani e i Tupi. Inoltre, le foglie di yerba si trovava solo in due regioni, Amambay e Alto Parana. Dopo che i gesuiti iniziarono a usarla, la mate si diffuse nell'attuale Paraguay e in altre colonie spagnole.</Italian>
         <Spanish>[H1]YERBA MATE[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]El [COLOR_HIGHLIGHT_TEXT]té de yerba[COLOR_REVERT] se elabora con hojas de [LINK=YIELD_YERBA_LEAVES]yerba[\LINK]. Para ello, un colono necesita tener la [LINK=PROFESSION_YERBA_TRADER]profesión de comerciante de yerba mate[\LINK] en la [LINK=BUILDING_TOBACCONIST_HOUSE]Casa de Tabaco y Yerba[\LINK] o una de sus mejoras. La producción de yerba mate se puede duplicar encargando a [LINK=UNIT_YERBA_TRADER]maestros comerciantes de yerba mate[\LINK] que se pueden contratar en Europa.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]Iniciarse en el comercio de la yerba significaba tratar con dos naciones indígenas especialmente peligrosas : los guaraníes y los tupíes. Para colmo de males, sólo se encontraba en dos regiones, Amambay y Alto Paraná. Después de que los jesuitas empezaran a utilizarla, la yerba mate se generalizó en lo que hoy es Paraguay y en otras colonias españolas.</Spanish>
+		<Hungarian>[H1]YERBA TEA[\H1][NEWLINE][BOLD]Stratégia :[\BOLD][NEWLINE]A [COLOR_HIGHLIGHT_TEXT]Yerba Tea[COLOR_REVERT] [LINK=YIELD_YERBA_LEAVES]Tealevelekből[\LINK] készül. Ehhez egy telepesnek [LINK=PROFESSION_YERBA_TRADER]Teakészítő[\LINK] szakmát kell választani a [LINK=BUILDING_TOBACCONIST_HOUSE]Dohány és Teaboltban[\LINK] vagy annak egyik fejlesztésében. A Yerba Tea termelése megduplázható az Európában felbérelhető [LINK=UNIT_YERBA_TRADER]Teakészítő Mester[\LINK] alkalmazásával.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]A yerba tea kereskedés megkezdése két különösen veszélyes őslakos néppel: a guaranival és a tupival való üzletelést jelentette. A kihívást tetézte, hogy a yerba levelek csak két régióban, Amambayban és Alto Paranában voltak fellelhetők. Miután a jezsuiták elkezdték használni, a yerba tea széles körben elterjedt a mai Paraguay területén és más spanyol gyarmatokon is.</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_YERBA_TEA_PEDIA</Tag>
@@ -1071,6 +1146,7 @@
         <Italian>Tessuto di lana colorato</Italian>
         <Spanish>Tejido de lana de colores</Spanish>
         <Russian>Цветная шерстяная ткань</Russian>
+		<Hungarian>Festett Gyapjúkelme</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_COLOURED_WOOL_CLOTH</Tag>
@@ -1084,6 +1160,7 @@
         <Italian>Tessuto di lana colorato</Italian>
         <Spanish>Tejido de lana de colores</Spanish>
         <Russian>Цветная шерстяная ткань</Russian>
+		<Hungarian>Festett Gyapjúkelme</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_COLOURED_WOOL_CLOTH</Tag>
@@ -1097,6 +1174,7 @@
         <Italian>Tessuto di lana colorato</Italian>
         <Spanish>Tejido de lana de colores</Spanish>
         <Russian>Цветная шерстяная ткань</Russian>
+		<Hungarian>Festett Gyapjúkelme</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_COLOURED_WOOL_CLOTH_PEDIA</Tag>
@@ -1105,6 +1183,7 @@
         <German>[H1]Gefärbter Wollstoff[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE]Um [LINK=YIELD_EVERYDAY_CLOTHES]Alltagskleidung[\LINK] herzustellen, braucht der [LINK=PROFESSION_EVERYDAY_CLOTHES_TAILOR]Schneider[\LINK] [COLOR_HIGHLIGHT_TEXT]gefärbten Wollstoff[COLOR_REVERT].[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Alltagskleidung muss strapazierfähig sein, aber sie sollte trotzdem gut aussehen. Die meisten Menschen können sich Kleidung zum Wechseln leisten. Der Besitz einer Vielzahl von Stilen und Farben ist ein Zeichen für bescheidenen Wohlstand.</German>
         <Italian>[H1]TESSUTO DI LANA COLORATO[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]Per confezionare [LINK=YIELD_EVERYDAY_CLOTHES]abiti di tutti i giorni[\LINK] il [LINK=PROFESSION_EVERYDAY_CLOTHES_TAILOR]sarto[\LINK] ha bisogno di [COLOR_HIGHLIGHT_TEXT]tessuto di lana colorato[COLOR_REVERT].[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]I vestiti di tutti i giorni devono essere resistenti, ma devono comunque avere un bell'aspetto. La maggior parte delle persone può permettersi un cambio di vestiti. Possedere una varietà di stili e colori è un segno di modesto benessere.</Italian>
         <Spanish>[H1]TEJIDO DE LANA DE COLORES[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]Para confeccionar [LINK=YIELD_EVERYDAY_CLOTHES]ropa de diario[\LINK] el [LINK=PROFESSION_EVERYDAY_CLOTHES_TAILOR]sastre[\LINK] necesita [COLOR_HIGHLIGHT_TEXT]tejido de lana de colores[COLOR_REVERT].[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]La ropa de diario tiene que ser resistente, pero debe tener buen aspecto. La mayoría de la gente puede permitirse una muda de ropa. Poseer una variedad de estilos y colores es señal de una modesta prosperidad.</Spanish>
+		<Hungarian>[H1]SZÍNES GYAPJÚSZÖVET[\H1][NEWLINE][BOLD]Stratégia : [\BOLD][NEWLINE]Ahhoz, hogy [LINK=YIELD_EVERYDAY_CLOTHES]Hétköznapi Ruhát[\LINK] készíts, a [LINK=PROFESSION_EVERYDAY_CLOTHES_TAILOR]Szabónak[\LINK] szüksége van [COLOR_HIGHLIGHT_TEXT]Színes Gyapjúszövetre[COLOR_REVERT]. [NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]A hétköznapi ruháknak strapabírónak kell lenniük, de mégis jól kell kinézniük. A legtöbb ember megengedhet magának egy váltóruhát. A különböző stílusú és színű ruhák birtoklása a szerény jólét jele.</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_COLOURED_WOOL_CLOTH_PEDIA</Tag>
@@ -1127,6 +1206,7 @@
         <Italian>Argilla</Italian>
         <Spanish>Arcilla</Spanish>
         <Russian>Глина</Russian>
+		<Hungarian>Agyag</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_CLAY</Tag>
@@ -1140,6 +1220,7 @@
         <Italian>Argilla</Italian>
         <Spanish>Arcilla</Spanish>
         <Russian>Глина</Russian>
+		<Hungarian>Agyag</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_CLAY</Tag>
@@ -1153,6 +1234,7 @@
         <Italian>Argilla</Italian>
         <Spanish>Arcilla</Spanish>
         <Russian>Глина</Russian>
+		<Hungarian>Agyag</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_CLAY_PEDIA</Tag>
@@ -1161,6 +1243,7 @@
         <German>[H1]Lehm[\H1][NEWLINE][BOLD]Strategie :[\BOLD][NEWLINE][COLOR_HIGHLIGHT_TEXT]Lehm[COLOR_REVERT] findet man auf Hügeln in [LINK=TERRAIN_MARSH]Sümpfen[\LINK] oder [LINK=TERRAIN_WETLAND]Mooren[\LINK]. Um ihn zu sammeln, muss ein Kolonist den Beruf [LINK=PROFESSION_CLAY_MINER]Lehmkuhlenarbeiter[\LINK] ausüben. Der Vorrat an Lehm kann verdoppelt werden, indem [LINK=UNIT_PEAT_CUTTER]erfahrene Torf- und Lehmstecher[\LINK] beauftragt werden, die in Europa angeworben oder in Dörfern der Ureinwohner ausgebildet werden können.[NEWLINE][NEWLINE][NEWLINE][BOLD]Hintergrund :[\BOLD][NEWLINE]Ton ist im nassen Zustand aufgrund eines molekularen Wasserfilms, der die Tonpartikel umgibt, plastisch, wird aber beim Trocknen oder Brennen hart, spröde und nicht plastisch. Schiefer, der größtenteils aus Ton besteht, ist das häufigste Sedimentgestein.[NEWLINE][NEWLINE]Ton ist das älteste bekannte keramische Material. Prähistorische Menschen nutzten ihn zur Herstellung von Töpferwaren. Frühe Tonscherben wurden auf 14.000 v. Chr. datiert, und Tontafeln sind das erste bekannte Schreibmedium.</German>
         <Italian>[H1]ARGILLA[\H1][NEWLINE][BOLD]Strategia :[\BOLD][NEWLINE]L'[COLOR_HIGHLIGHT_TEXT]argilla[COLOR_REVERT] si trova sulle colline dei terreni [LINK=TERRAIN_MARSH]paludosi[\LINK] o [LINK=TERRAIN_WETLAND]umidi[\LINK]. Per raccoglierla, un colono deve avere la professione di [LINK=PROFESSION_CLAY_MINER]tagliatore di argilla[\LINK]. La fornitura di argilla può essere raddoppiata commissionando [LINK=UNIT_PEAT_CUTTER]esperti tagliatori di torba e argilla[\LINK] che possono essere assunti in Europa o addestrati nei villaggi dei nativi.[NEWLINE][NEWLINE][NEWLINE][BOLD]Sfondo :[\BOLD][NEWLINE]L'argilla sviluppa plasticità quando è bagnata, a causa di una pellicola molecolare di acqua che circonda le particelle di argilla, ma diventa dura, fragile e non plastica quando si asciuga o si cuoce. L'argilla, formata in gran parte da argilla, è la roccia sedimentaria più comune.[NEWLINE][NEWLINE]L'argilla è il più antico materiale ceramico conosciuto. Gli esseri umani preistorici la usavano per produrre vasellame. I primi cocci di ceramica sono stati datati al 14.000 a.C. e le tavolette di argilla sono il primo supporto di scrittura conosciuto.</Italian>
         <Spanish>[H1]ARCILLA[\H1][NEWLINE][BOLD]Estrategia :[\BOLD][NEWLINE]La [COLOR_HIGHLIGHT_TEXT]arcilla[COLOR_REVERT] se encuentra en las colinas de los terrenos [LINK=TERRAIN_MARSH]marismas[\LINK] o [LINK=TERRAIN_WETLAND]humedales[\LINK]. Para recogerla, un colono necesita tener la profesión [LINK=PROFESSION_CLAY_MINER]cortador de arcilla[\LINK]. El suministro de arcilla puede duplicarse encargando a [LINK=UNIT_PEAT_CUTTER]expertos cortadores de turba y arcilla[\LINK] que pueden contratarse en Europa o formarse en los pueblos nativos.[NEWLINE][NEWLINE][NEWLINE][BOLD]Antecedentes :[\BOLD][NEWLINE]La arcilla desarrolla plasticidad cuando está húmeda, debido a una película molecular de agua que rodea las partículas de arcilla, pero se vuelve dura, quebradiza y no plástica al secarse o cocerse. El esquisto, formado en gran parte por arcilla, es la roca sedimentaria más común[NEWLINE][NEWLINE]La arcilla es el material cerámico más antiguo que se conoce. Los humanos prehistóricos la utilizaban para fabricar alfarería. Los primeros fragmentos de cerámica datan del 14.000 a.C., y las tablillas de arcilla son el primer medio de escritura conocido.</Spanish>
+		<Hungarian>[H1]AGYAG[\H1][NEWLINE][BOLD]Stratégia :[\BOLD][NEWLINE]Az [COLOR_HIGHLIGHT_TEXT]Agyag[COLOR_REVERT] Dombokon lévő [LINK=TERRAIN_MARSH]Mocsár[\LINK] vagy [LINK=TERRAIN_WETLAND]Ingovány[\LINK] terepen található. A begyűjtéséhez egy telepesnek [LINK=PROFESSION_CLAY_MINER]Agyagbányász[\LINK] szakmát kell választani. Az Agyagkitermelés megduplázható [LINK=UNIT_PEAT_CUTTER]Szakértő Tőzeg és Agyagbányász[\LINK] alkalmazásával, akit Európában lehet felbérelni vagy a Bennszülött falvakban kiképezni.[NEWLINE][NEWLINE][NEWLINE][BOLD]Háttér :[\BOLD][NEWLINE]Az agyag nedvesen alakítható, az agyagrészecskéket körülvevő molekuláris vízfilm miatt, de száradáskor vagy égetéskor kemény, rideg és nem szilárd lesz. A nagyrészt agyagból képződött pala a leggyakoribb üledékes kőzet.[NEWLINE][NEWLINE]Az agyag a legrégebbi ismert kerámiaanyag. Az őskori emberek fazekasáruk készítésére használták. A korai kerámia szilánkokat i.e. 14 000-re datálják, és az agyagtáblák az első ismert íróeszközök.</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_CLAY_PEDIA</Tag>
@@ -1183,6 +1266,7 @@
         <Italian>Carbone</Italian>
         <Spanish>Carbón</Spanish>
         <Russian>Уголь</Russian>
+		<Hungarian>Szén</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_COAL</Tag>
@@ -1196,6 +1280,7 @@
         <Italian>Carbone</Italian>
         <Spanish>Carbón</Spanish>
         <Russian>Уголь</Russian>
+		<Hungarian>Szén</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_COAL</Tag>
@@ -1209,6 +1294,7 @@
         <Italian>Carbone</Italian>
         <Spanish>Carbón</Spanish>
         <Russian>Уголь</Russian>
+		<Hungarian>Szén</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_COAL_PEDIA</Tag>
@@ -1239,6 +1325,7 @@
         <Italian>Carbone di legna</Italian>
         <Spanish>Carbón vegetal</Spanish>
         <Russian>Древесный уголь</Russian>
+		<Hungarian>Faszén</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_CHAR_COAL</Tag>
@@ -1252,6 +1339,7 @@
         <Italian>Carbone di legna</Italian>
         <Spanish>Carbón vegetal</Spanish>
         <Russian>Древесный уголь</Russian>
+		<Hungarian>Faszén</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_CHAR_COAL</Tag>
@@ -1265,6 +1353,7 @@
         <Italian>Carbone di legna</Italian>
         <Spanish>Carbón vegetal</Spanish>
         <Russian>Древесный уголь</Russian>
+		<Hungarian>Faszén</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_CHAR_COAL_PEDIA</Tag>
@@ -1295,6 +1384,7 @@
         <Italian>Polvere da sparo</Italian>
         <Spanish>Pólvora</Spanish>
         <Russian>Порох</Russian>
+		<Hungarian>Puskapor</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_BLACK_POWDER</Tag>
@@ -1308,6 +1398,7 @@
         <Italian>Polvere da sparo</Italian>
         <Spanish>Pólvora</Spanish>
         <Russian>Порох</Russian>
+		<Hungarian>Puskapor</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_BLACK_POWDER</Tag>
@@ -1321,6 +1412,7 @@
         <Italian>Polvere da sparo</Italian>
         <Spanish>Pólvora</Spanish>
         <Russian>Порох</Russian>
+		<Hungarian>Puskapor</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_BLACK_POWDER_PEDIA</Tag>
@@ -1351,6 +1443,7 @@
         <Italian>Prodotti da forno</Italian>
         <Spanish>Productos de panadería</Spanish>
         <Russian>Хлебобулочные изделия</Russian>
+		<Hungarian>Pékáru</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_BAKERY_GOODS</Tag>
@@ -1364,6 +1457,7 @@
         <Italian>Prodotti da forno</Italian>
         <Spanish>Productos de panadería</Spanish>
         <Russian>Хлебобулочные изделия</Russian>
+		<Hungarian>Pékáru</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_BAKERY_GOODS</Tag>
@@ -1377,6 +1471,7 @@
         <Italian>Prodotti da forno</Italian>
         <Spanish>Productos de panadería</Spanish>
         <Russian>Хлебобулочные изделия</Russian>
+		<Hungarian>Pékáru</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_BAKERY_GOODS_PEDIA</Tag>
@@ -1407,6 +1502,7 @@
         <Italian>Vaniglia</Italian>
         <Spanish>Vainilla</Spanish>
         <Russian>Ваниль</Russian>
+		<Hungarian>Vanília</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_VANILLA</Tag>
@@ -1420,6 +1516,7 @@
         <Italian>Vaniglia</Italian>
         <Spanish>Vainilla</Spanish>
         <Russian>Ваниль</Russian>
+		<Hungarian>Vanília</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_VANILLA</Tag>
@@ -1433,6 +1530,7 @@
         <Italian>Vaniglia</Italian>
         <Spanish>Vainilla</Spanish>
         <Russian>Ваниль</Russian>
+		<Hungarian>Vanília</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_VANILLA_PEDIA</Tag>
@@ -1463,6 +1561,7 @@
         <Italian>Baccelli di vaniglia verde</Italian>
         <Spanish>Vainas de vainilla verde</Spanish>
         <Russian>Стручки ванили</Russian>
+		<Hungarian>Zöld Vaníliabab</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_VANILLA_PODS</Tag>
@@ -1476,6 +1575,7 @@
         <Italian>Baccelli di vaniglia verde</Italian>
         <Spanish>Vainas de vainilla verde</Spanish>
         <Russian>Стручки ванили</Russian>
+		<Hungarian>Zöld Vaníliabab</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_VANILLA_PODS</Tag>
@@ -1489,6 +1589,7 @@
         <Italian>Baccelli di vaniglia verde</Italian>
         <Spanish>Vainas de vainilla verde</Spanish>
         <Russian>Стручки ванили</Russian>
+		<Hungarian>Zöld Vaníliabab</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_VANILLA_PODS_PEDIA</Tag>
@@ -1519,6 +1620,7 @@
         <Italian>Torba</Italian>
         <Spanish>Turba</Spanish>
         <Russian>Торф</Russian>
+		<Hungarian>Tőzeg</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_PEAT</Tag>
@@ -1532,6 +1634,7 @@
         <Italian>Torba</Italian>
         <Spanish>Turba</Spanish>
         <Russian>Торф</Russian>
+		<Hungarian>Tőzeg</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_PEAT</Tag>
@@ -1545,6 +1648,7 @@
         <Italian>Torba</Italian>
         <Spanish>Turba</Spanish>
         <Russian>Торф</Russian>
+		<Hungarian>Tőzeg</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_PEAT_PEDIA</Tag>
@@ -1575,6 +1679,7 @@
         <Italian>Arachidi</Italian>
         <Spanish>Cacahuetes</Spanish>
         <Russian>Арахис</Russian>
+		<Hungarian>Mogyoró</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_PEANUTS</Tag>
@@ -1588,6 +1693,7 @@
         <Italian>Arachidi</Italian>
         <Spanish>Cacahuetes</Spanish>
         <Russian>Арахис</Russian>
+		<Hungarian>Mogyoró</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_PEANUTS</Tag>
@@ -1601,6 +1707,7 @@
         <Italian>Arachidi</Italian>
         <Spanish>Cacahuetes</Spanish>
         <Russian>Арахис</Russian>
+		<Hungarian>Mogyoró</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_PEANUTS_PEDIA</Tag>
@@ -1631,6 +1738,7 @@
         <Italian>Arachidi arrostite</Italian>
         <Spanish>Cacahuetes tostados</Spanish>
         <Russian>Жареный арахис</Russian>
+		<Hungarian>Pörkölt Mogyoró</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_ROASTED_PEANUTS</Tag>
@@ -1644,6 +1752,7 @@
         <Italian>Arachidi arrostite</Italian>
         <Spanish>Cacahuetes tostados</Spanish>
         <Russian>Жареный арахис</Russian>
+		<Hungarian>Pörkölt Mogyoró</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_ROASTED_PEANUTS</Tag>
@@ -1657,6 +1766,7 @@
         <Italian>Arachidi arrostite</Italian>
         <Spanish>Cacahuetes tostados</Spanish>
         <Russian>Жареный арахис</Russian>
+		<Hungarian>Pörkölt Mogyoró</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_ROASTED_PEANUTS_PEDIA</Tag>
@@ -1687,6 +1797,7 @@
         <Italian>Olive</Italian>
         <Spanish>Aceitunas</Spanish>
         <Russian>Оливки</Russian>
+		<Hungarian>Olajbogyó</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_OLIVES</Tag>
@@ -1700,6 +1811,7 @@
         <Italian>Olive</Italian>
         <Spanish>Aceitunas</Spanish>
         <Russian>Оливки</Russian>
+		<Hungarian>Olajbogyó</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_OLIVES</Tag>
@@ -1713,6 +1825,7 @@
         <Italian>Olive</Italian>
         <Spanish>Aceitunas</Spanish>
         <Russian>Оливки</Russian>
+		<Hungarian>Olajbogyó</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_OLIVES_PEDIA</Tag>
@@ -1743,6 +1856,7 @@
         <Italian>Colza</Italian>
         <Spanish>Colza</Spanish>
         <Russian>Рапс</Russian>
+		<Hungarian>Repce</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_RAPE</Tag>
@@ -1756,6 +1870,7 @@
         <Italian>Colza</Italian>
         <Spanish>Colza</Spanish>
         <Russian>Рапс</Russian>
+		<Hungarian>Repce</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_RAPE</Tag>
@@ -1769,6 +1884,7 @@
         <Italian>Colza</Italian>
         <Spanish>Colza</Spanish>
         <Russian>Рапс</Russian>
+		<Hungarian>Repce</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_RAPE_PEDIA</Tag>
@@ -1799,6 +1915,7 @@
         <Italian>Olio d'oliva</Italian>
         <Spanish>Aceite de oliva</Spanish>
         <Russian>Оливковое масло</Russian>
+		<Hungarian>Olívaolaj</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_OLIVE_OIL</Tag>
@@ -1812,6 +1929,7 @@
         <Italian>Olio d'oliva</Italian>
         <Spanish>Aceite de oliva</Spanish>
         <Russian>Оливковое масло</Russian>
+		<Hungarian>Olívaolaj</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_OLIVE_OIL</Tag>
@@ -1825,6 +1943,7 @@
         <Italian>Olio d'oliva</Italian>
         <Spanish>Aceite de oliva</Spanish>
         <Russian>Оливковое масло</Russian>
+		<Hungarian>Olívaolaj</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_OLIVE_OIL_PEDIA</Tag>
@@ -1855,6 +1974,7 @@
         <Italian>Olio di colza</Italian>
         <Spanish>Aceite de colza</Spanish>
         <Russian>Рапсовое масло</Russian>
+		<Hungarian>Repceolaj</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_RAPE_OIL</Tag>
@@ -1868,6 +1988,7 @@
         <Italian>Olio di colza</Italian>
         <Spanish>Aceite de colza</Spanish>
         <Russian>Рапсовое масло</Russian>
+		<Hungarian>Repceolaj</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_RAPE_OIL</Tag>
@@ -1881,6 +2002,7 @@
         <Italian>Olio di colza</Italian>
         <Spanish>Aceite de colza</Spanish>
         <Russian>Рапсовое масло</Russian>
+		<Hungarian>Repceolaj</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_RAPE_OIL_PEDIA</Tag>
@@ -1911,6 +2033,7 @@
         <Italian>Articoli per la casa</Italian>
         <Spanish>Artículos domésticos</Spanish>
         <Russian>Товары для домашнего хозяйства</Russian>
+		<Hungarian>Háztartási Áru</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_HOUSEHOLD_GOODS</Tag>
@@ -1924,6 +2047,7 @@
         <Italian>Articoli per la casa</Italian>
         <Spanish>Artículos domésticos</Spanish>
         <Russian>Товары для домашнего хозяйства</Russian>
+		<Hungarian>Háztartási Áru</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_HOUSEHOLD_GOODS</Tag>
@@ -1937,6 +2061,7 @@
         <Italian>Articoli per la casa</Italian>
         <Spanish>Artículos domésticos</Spanish>
         <Russian>Товары для домашнего хозяйства</Russian>
+		<Hungarian>Háztartási Áru</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_HOUSEHOLD_GOODS_PEDIA</Tag>
@@ -1967,6 +2092,7 @@
         <Italian>Attrezzi da lavoro</Italian>
         <Spanish>Herramientas de campo</Spanish>
         <Russian>Товары для полевых работ</Russian>
+		<Hungarian>Mezőgazdasági Szerszám</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_FIELD_WORKER_TOOLS</Tag>
@@ -1980,6 +2106,7 @@
         <Italian>Attrezzi da lavoro</Italian>
         <Spanish>Herramientas de campo</Spanish>
         <Russian>Товары для полевых работ</Russian>
+		<Hungarian>Mezőgazdasági Szerszám</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_FIELD_WORKER_TOOLS</Tag>
@@ -1993,6 +2120,7 @@
         <Italian>Attrezzi da lavoro</Italian>
         <Spanish>Herramientas de campo</Spanish>
         <Russian>Товары для полевых работ</Russian>
+		<Hungarian>Mezőgazdasági Szerszám</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_FIELD_WORKER_TOOLS_PEDIA</Tag>
@@ -2023,6 +2151,7 @@
         <Italian>Riso</Italian>
         <Spanish>Arroz</Spanish>
         <Russian>Рис</Russian>
+		<Hungarian>Rizs</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_RICE</Tag>
@@ -2036,6 +2165,7 @@
         <Italian>Riso</Italian>
         <Spanish>Arroz</Spanish>
         <Russian>Рис</Russian>
+		<Hungarian>Rizs</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_RICE</Tag>
@@ -2049,6 +2179,7 @@
         <Italian>Riso</Italian>
         <Spanish>Arroz</Spanish>
         <Russian>Рис</Russian>
+		<Hungarian>Rizs</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_RICE_PEDIA</Tag>
@@ -2079,6 +2210,7 @@
         <Italian>Cassava</Italian>
         <Spanish>Yuca</Spanish>
         <Russian>Маниока</Russian>
+		<Hungarian>Tápióka</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_CASSAVA</Tag>
@@ -2092,6 +2224,7 @@
         <Italian>Cassava</Italian>
         <Spanish>Yuca</Spanish>
         <Russian>Маниока</Russian>
+		<Hungarian>Tápióka</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_CASSAVA</Tag>
@@ -2105,6 +2238,7 @@
         <Italian>Cassava</Italian>
         <Spanish>Yuca</Spanish>
         <Russian>Маниока</Russian>
+		<Hungarian>Tápióka</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_CASSAVA_PEDIA</Tag>
@@ -2135,6 +2269,7 @@
         <Italian>Cocciniglia del carminio</Italian>
         <Spanish>Cochinilla del carmín</Spanish>
         <Russian>Кошениль</Russian>
+		<Hungarian>Bíbortetű</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_COCHINEAL</Tag>
@@ -2148,6 +2283,7 @@
         <Italian>Cocciniglia del carminio</Italian>
         <Spanish>Cochinilla del carmín</Spanish>
         <Russian>Кошениль</Russian>
+		<Hungarian>Bíbortetű</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_COCHINEAL</Tag>
@@ -2161,6 +2297,7 @@
         <Italian>Cocciniglia del carminio</Italian>
         <Spanish>Cochinilla del carmín</Spanish>
         <Russian>Кошениль</Russian>
+		<Hungarian>Bíbortetű</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_COCHINEAL_PEDIA</Tag>
@@ -2191,6 +2328,7 @@
         <Italian>Cioccolatini</Italian>
         <Spanish>Chocolates</Spanish>
         <Russian>Шоколад</Russian>
+		<Hungarian>Csokoládé</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_CHOCOLATE</Tag>
@@ -2204,6 +2342,7 @@
         <Italian>Cioccolatini</Italian>
         <Spanish>Chocolates</Spanish>
         <Russian>Шоколад</Russian>
+		<Hungarian>Csokoládé</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_CHOCOLATE</Tag>
@@ -2217,6 +2356,7 @@
         <Italian>Cioccolatini</Italian>
         <Spanish>Chocolates</Spanish>
         <Russian>Шоколад</Russian>
+		<Hungarian>Csokoládé</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_CHOCOLATE_PEDIA</Tag>
@@ -2247,6 +2387,7 @@
         <Italian>Cappotti di pelle foderati</Italian>
         <Spanish>Abrigos de cuero forrados</Spanish>
         <Russian>Утепленные куртки</Russian>
+		<Hungarian>Bélelt Bőrkabát</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_PADDED_LEATHER_COATS</Tag>
@@ -2260,6 +2401,7 @@
         <Italian>Cappotti di pelle foderati</Italian>
         <Spanish>Abrigos de cuero forrados</Spanish>
         <Russian>Утепленные куртки</Russian>
+		<Hungarian>Bélelt Bőrkabát</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_PADDED_LEATHER_COATS</Tag>
@@ -2273,6 +2415,7 @@
         <Italian>Cappotti di pelle foderati</Italian>
         <Spanish>Abrigos de cuero forrados</Spanish>
         <Russian>Утепленные куртки</Russian>
+		<Hungarian>Bélelt Bőrkabát</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_PADDED_LEATHER_COATS_PEDIA</Tag>
@@ -2303,6 +2446,7 @@
         <Italian>Latte</Italian>
         <Spanish>Leche</Spanish>
         <Russian>Молоко</Russian>
+		<Hungarian>Tej</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_MILK</Tag>
@@ -2316,6 +2460,7 @@
         <Italian>Latte</Italian>
         <Spanish>Leche</Spanish>
         <Russian>Молоко</Russian>
+		<Hungarian>Tej</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_MILK</Tag>
@@ -2329,6 +2474,7 @@
         <Italian>Latte</Italian>
         <Spanish>Leche</Spanish>
         <Russian>Молоко</Russian>
+		<Hungarian>Tej</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_MILK_PEDIA</Tag>
@@ -2359,6 +2505,7 @@
         <Italian>Gomma</Italian>
         <Spanish>Caucho</Spanish>
         <Russian>Каучук</Russian>
+		<Hungarian>Kaucsuk</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_KAUTSCHUK</Tag>
@@ -2372,6 +2519,7 @@
         <Italian>Gomma</Italian>
         <Spanish>Caucho</Spanish>
         <Russian>Каучук</Russian>
+		<Hungarian>Kaucsuk</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_KAUTSCHUK</Tag>
@@ -2385,6 +2533,7 @@
         <Italian>Gomma</Italian>
         <Spanish>Caucho</Spanish>
         <Russian>Каучук</Russian>
+		<Hungarian>Kaucsuk</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_KAUTSCHUK_PEDIA</Tag>
@@ -2415,6 +2564,7 @@
         <Italian>Formaggio</Italian>
         <Spanish>Queso</Spanish>
         <Russian>Сыр</Russian>
+		<Hungarian>Sajt</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_CHEESE</Tag>
@@ -2428,6 +2578,7 @@
         <Italian>Formaggio</Italian>
         <Spanish>Queso</Spanish>
         <Russian>Сыр</Russian>
+		<Hungarian>Sajt</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_CHEESE</Tag>
@@ -2441,6 +2592,7 @@
         <Italian>Formaggio</Italian>
         <Spanish>Queso</Spanish>
         <Russian>Сыр</Russian>
+		<Hungarian>Sajt</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_CHEESE_PEDIA</Tag>
@@ -2471,6 +2623,7 @@
         <Italian>Ceramica</Italian>
         <Spanish>Cerámica</Spanish>
         <Russian>Керамика</Russian>
+		<Hungarian>Kerámia</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_POTTERY</Tag>
@@ -2484,6 +2637,7 @@
         <Italian>Ceramica</Italian>
         <Spanish>Cerámica</Spanish>
         <Russian>Керамика</Russian>
+		<Hungarian>Kerámia</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_POTTERY</Tag>
@@ -2497,6 +2651,7 @@
         <Italian>Ceramica</Italian>
         <Spanish>Cerámica</Spanish>
         <Russian>Керамика</Russian>
+		<Hungarian>Kerámia</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_POTTERY_PEDIA</Tag>
@@ -2527,6 +2682,7 @@
         <Italian>Abbigliamento per tutti i giorni</Italian>
         <Spanish>Ropa de trabajo</Spanish>
         <Russian>Повседневная одежда</Russian>
+		<Hungarian>Hétköznapi Ruha</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_EVERYDAY_CLOTHES</Tag>
@@ -2540,6 +2696,7 @@
         <Italian>Abbigliamento per tutti i giorni</Italian>
         <Spanish>Ropa de trabajo</Spanish>
         <Russian>Повседневная одежда</Russian>
+		<Hungarian>Hétköznapi Ruha</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_EVERYDAY_CLOTHES</Tag>
@@ -2553,6 +2710,7 @@
         <Italian>Abbigliamento per tutti i giorni</Italian>
         <Spanish>Ropa de trabajo</Spanish>
         <Russian>Повседневная одежда</Russian>
+		<Hungarian>Hétköznapi Ruha</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_EVERYDAY_CLOTHES_PEDIA</Tag>
@@ -2583,6 +2741,7 @@
         <Italian>Abiti da cerimonia</Italian>
         <Spanish>Ropa formal</Spanish>
         <Russian>Праздничная одежда</Russian>
+		<Hungarian>Ünnepi Ruha</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNITCLASS_FESTIVE_CLOTHES</Tag>
@@ -2596,6 +2755,7 @@
         <Italian>Abiti da cerimonia</Italian>
         <Spanish>Ropa formal</Spanish>
         <Russian>Праздничная одежда</Russian>
+		<Hungarian>Ünnepi Ruha</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_UNIT_FESTIVE_CLOTHES</Tag>
@@ -2609,6 +2769,7 @@
         <Italian>Abiti da cerimonia</Italian>
         <Spanish>Ropa formal</Spanish>
         <Russian>Праздничная одежда</Russian>
+		<Hungarian>Ünnepi Ruha</Hungarian>
     </TEXT>
     <TEXT>
         <Tag>TXT_KEY_YIELD_FESTIVE_CLOTHES_PEDIA</Tag>
